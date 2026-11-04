@@ -1,47 +1,56 @@
-Questions
+The 10 questions, 4 answers each
 
-The parish church of Savosa (Beata Vergine Annunciata) is first attested in which year?
+1. Parish church Beata Vergine Annunciata. The parish church of Savosa (Beata Vergine Annunciata) is first attested in which year?
 A) 1203  B) 1578  C) 1335  D) 1714
-A sundial from which year is found near Savosa’s parish church?
-A) 1578  B) 1836  C) 1927  D) 1714
-Which sugar magnate bought the S. Maurizio complex in Rovello in 1906?
+
+2. Savosa cemetery. The chapel of the Riedemann cemetery in Savosa dates from which year?
+A) 1937  B) 1714  C) 1578  D) 1983
+
+3. Drinking fountain Via Emilio Maraini. Which sugar magnate bought the S. Maurizio complex in Rovello in 1906?
 A) Emilio Maraini  B) Giovanni Battista Quadri  C) Paul von Dervies  D) Karl von Beroldingen
-In which year is Savosa first mentioned, as "Savoxa"?
+
+4. Municipio. In which year is Savosa first mentioned, as "Savoxa"?
 A) 1203  B) 1578  C) 1335  D) 1957
-Which school, built in Savosa, serves the wider Lugano area?
+
+5. Liceo Lugano 2. Which school, built in Savosa, serves the wider Lugano area?
 A) The Federal Institute of Technology  B) Conservatorio della Svizzera italiana  C) Liceo (Gymnasium) Lugano 2  D) University of Lugano
-In 1957 the hamlet of Savosa gained a link to which network?
-A) Lugano’s tramway  B) The Gotthard railway  C) A cable car to Monte Brè  D) The Lugano–Tesserete railway
-Who designed the family house at Via al Bosco 14 (1983-84)?
-A) Mario Botta  B) Dolf Schnebli  C) Franco Ponti  D) Rudy Hunziker
-In which year did Savosa become an independent parish?
-A) 1578  B) 1825  C) 1801  D) 1927
-Which hamlet saw many real-estate and construction firms settle in the second half of the 20th century?
+
+6. Centro sportivo. Which hamlet saw many real-estate and construction firms settle in the second half of the 20th century?
 A) Rovello  B) Roncaccio  C) Crocifisso  D) San Maurizio
-According to swisstopo’s 2026 boundary data, how large is Savosa?
+
+7. Casa unifamiliare Via al Bosco 14. Who designed the family house at Via al Bosco 14 (1983-84)?
+A) Mario Botta  B) Dolf Schnebli  C) Franco Ponti  D) Rudy Hunziker
+
+8. Playground Via Vira. In which year did Savosa become an independent parish?
+A) 1578  B) 1825  C) 1801  D) 1927
+
+9. Savosa Crocifisso. In 1957 the hamlet of Savosa gained a link to which network?
+A) Lugano’s tramway  B) The Gotthard railway  C) A cable car to Monte Brè  D) The Lugano–Tesserete railway
+
+10. Roncaccio. According to swisstopo’s 2026 boundary data, how large is Savosa?
 A) 36 hectares  B) 74 hectares  C) 210 hectares  D) 530 hectares
 
-Answer key: 1 B · 2 D · 3 A · 4 C · 5 C · 6 A · 7 D · 8 B · 9 C · 10 B
+Answer key (don’t scroll further until you’ve played): 1-B, 2-A, 3-A, 4-C, 5-C, 6-C, 7-D, 8-B, 9-A, 10-B
 
 Sources and fun facts
 
-1. it.wikipedia https://it.wikipedia.org/wiki/Savosa (Monumenti)
+1. Parish church Beata Vergine Annunciata: it.wikipedia https://it.wikipedia.org/wiki/Savosa (Monumenti)
    Fun fact: It was rebuilt several times in the 18th and 19th centuries and restored in 1993.
-2. it.wikipedia https://it.wikipedia.org/wiki/Savosa (Monumenti: meridiana del 1714)
-   Fun fact: The Raiffeisen banks published a book on Ticino sundials in 1978 (see it.wikipedia bibliography).
-3. en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
+2. Savosa cemetery: it.wikipedia https://it.wikipedia.org/wiki/Savosa (Monumenti: Cappella del cimitero di Riedemann, 1937)
+   Fun fact: Next to the parish church there is a sundial from 1714.
+3. Drinking fountain Via Emilio Maraini: en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
    Fun fact: The complex, founded by the Humiliati, includes a farmhouse, a chapel mentioned in 1203 and a cemetery.
-4. it.wikipedia https://it.wikipedia.org/wiki/Savosa and en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
+4. Municipio: it.wikipedia https://it.wikipedia.org/wiki/Savosa and en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
    Fun fact: Savosa belonged to the parish of Lugano until 1801.
-5. en.wikipedia https://en.wikipedia.org/wiki/Savosa (History: Gymnasium Lugano 2 was built in Savosa)
+5. Liceo Lugano 2: en.wikipedia https://en.wikipedia.org/wiki/Savosa (History: Gymnasium Lugano 2 was built in Savosa)
    Fun fact: Savosa’s middle school (1972-74) carries a fresco by Fernando Bordoni (1999).
-6. en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
-   Fun fact: Its location close to Lugano made it an attractive place to live.
-7. it.wikipedia https://it.wikipedia.org/wiki/Savosa (Monumenti)
-   Fun fact: Hunziker also designed an office building in nearby Vezia (1983-84).
-8. en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
-   Fun fact: Between 1801 and 1825 it was part of the Porza parish.
-9. en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
+6. Centro sportivo: en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
    Fun fact: Rovello and Crocifisso joined the Savosa parish in 1927.
-10. swisstopo swissBOUNDARIES3D 2026-01 (BFS 5221): 74 ha
+7. Casa unifamiliare Via al Bosco 14: it.wikipedia https://it.wikipedia.org/wiki/Savosa (Monumenti)
+   Fun fact: Hunziker also designed an office building in nearby Vezia (1983-84).
+8. Playground Via Vira: en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
+   Fun fact: Between 1801 and 1825 it was part of the Porza parish.
+9. Savosa Crocifisso: en.wikipedia https://en.wikipedia.org/wiki/Savosa (History)
+   Fun fact: Its location close to Lugano made it an attractive place to live.
+10. Roncaccio: swisstopo swissBOUNDARIES3D 2026-01 (BFS 5221): 74 ha
    Fun fact: Savosa consists of Savosa, Crocifisso and Rovello (it.wikipedia).

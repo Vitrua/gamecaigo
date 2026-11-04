@@ -1,47 +1,56 @@
-Questions
+The 10 questions, 4 answers each
 
-In which year was the parish church of San Cristoforo built, on the site of an earlier 14th-century church?
+1. Chiesa di San Cristoforo. In which year was the parish church of San Cristoforo built, on the site of an earlier 14th-century church?
 A) 1620  B) 1653  C) 1335  D) 1093
-According to the ISOS inventory, fishing rights on the lake belonged to the episcopal church of which city?
+
+2. Piazza Lago fountain. According to the ISOS inventory, fishing rights on the lake belonged to the episcopal church of which city?
 A) Milan  B) Lugano  C) Bergamo  D) Como
-In which year was the current building of the Museo della pesca inaugurated?
+
+3. Museo della Pesca. In which year was the current building of the Museo della pesca inaugurated?
 A) 1993  B) 1653  C) 2010  D) 1978
-The Magliasina delta filled a narrow strait that once made which hill an island?
+
+4. Foce della Magliasina. The Magliasina delta filled a narrow strait that once made which hill an island?
 A) Monte Caslano  B) Monte Brè  C) Monte San Salvatore  D) Monte Ceneri
-In which year is the chapel of Santa Maria delle Grazie, called "Chiesuola di mezzo", first cited?
+
+5. Cappella di Santa Maria delle Grazie. In which year is the chapel of Santa Maria delle Grazie, called "Chiesuola di mezzo", first cited?
 A) 1126  B) 1335  C) 1620  D) 1093
-In which hamlet of Caslano does the church of Santa Maria del Rosario stand?
+
+6. Chiesa di Santa Maria del Rosario. In which hamlet of Caslano does the church of Santa Maria del Rosario stand?
 A) Torrazza  B) Magliasina  C) Stremadone  D) Carabietta
-Torrazza was the site of bitter fighting between the Swiss Confederation and which duchy?
+
+7. Torrazza park. Torrazza was the site of bitter fighting between the Swiss Confederation and which duchy?
 A) Savoy  B) Modena  C) Parma  D) Milan
-In which year did Caslano become a political commune?
+
+8. Monte Caslano panoramic viewpoint. In which year did Caslano become a political commune?
 A) 1335  B) 1126  C) 1578  D) 1620
-In 1604 the Treaty of Varese ruled against which Italian municipality and awarded the disputed area to Caslano?
+
+9. Biblioteca comunale, Museo della fotografia. In 1604 the Treaty of Varese ruled against which Italian municipality and awarded the disputed area to Caslano?
 A) Luino  B) Porto Ceresio  C) Lavena Ponte Tresa  D) Cremenaga
-According to the ISOS inventory, what is the Stremadone "quartiere" known for?
+
+10. Drinking-water fountain, Via Stremadone. According to the ISOS inventory, what is the Stremadone "quartiere" known for?
 A) Fishermen’s houses  B) Wine cellars  C) Lime kilns  D) Clay quarries
 
-Answer key: 1 B · 2 D · 3 C · 4 A · 5 D · 6 B · 7 D · 8 A · 9 C · 10 B
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-C, 4-A, 5-D, 6-B, 7-D, 8-A, 9-C, 10-B
 
 Sources and fun facts
 
-1. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf; en.wikipedia https://en.wikipedia.org/wiki/Caslano
+1. Chiesa di San Cristoforo: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf; en.wikipedia https://en.wikipedia.org/wiki/Caslano
    Fun fact: Remains of the earlier church survive as the sacristy.
-2. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
+2. Piazza Lago fountain: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
    Fun fact: Anyone who wanted to fish had to pay the church a lease.
-3. museums.ch https://www.museums.ch/it/visita-al-museo/musei/musei/museo-della-pesca-1966.html (museum opened 1993; current building inaugurated 2010)
+3. Museo della Pesca: museums.ch https://www.museums.ch/it/visita-al-museo/musei/musei/museo-della-pesca-1966.html (museum opened 1993; current building inaugurated 2010)
    Fun fact: The museum is an external section of the Museo del Malcantone and stands on the lakeshore near the village square.
-4. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
+4. Foce della Magliasina: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
    Fun fact: Monte Caslano is today a natural park attached to the mainland by the river’s deposits.
-5. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
+5. Cappella di Santa Maria delle Grazie: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
    Fun fact: It stands midway between the parish church and Santa Maria del Rosario and was restored in 1978.
-6. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
+6. Chiesa di Santa Maria del Rosario: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
    Fun fact: It lies along the cantonal road at the end of the route from the Chiesuola di mezzo.
-7. en.wikipedia https://en.wikipedia.org/wiki/Caslano (single source)
+7. Torrazza park: en.wikipedia https://en.wikipedia.org/wiki/Caslano (single source)
    Fun fact: In 1604 the Treaty of Varese awarded a disputed area to Caslano, against the Italian municipality of Lavena Ponte Tresa.
-8. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
+8. Monte Caslano panoramic viewpoint: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
    Fun fact: The locality is first mentioned in 1126, during a clash between the troops of Como and Lodi.
-9. en.wikipedia https://en.wikipedia.org/wiki/Caslano (single source)
+9. Biblioteca comunale, Museo della fotografia: en.wikipedia https://en.wikipedia.org/wiki/Caslano (single source)
    Fun fact: Caslano borders several Italian municipalities, including Lavena Ponte Tresa and Brusimpiano.
-10. ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
+10. Drinking-water fountain, Via Stremadone: ISOS (Federal Inventory of Swiss Heritage Sites) Caslano, https://api.isos.bak.admin.ch/ob/3834/doc/ISOS_3834.pdf
    Fun fact: It is a cluster of cellars in a woodland clearing, reached by a narrow road.

@@ -1,5 +1,5 @@
 ﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
-0,Parco Melontano (playground),"Tesserete, Capriasca",Park / playground (start),46.0646440,8.9635140,site centroid,"https://www.google.com/maps?q=46.0646440,8.9635140",yes,"OSM way 584436083 (leisure=playground, ""Parco Melontano"", Nominatim)"
+START,Parco Melontano (playground),"Tesserete, Capriasca",Park / playground (start),46.0646440,8.9635140,site centroid,"https://www.google.com/maps?q=46.0646440,8.9635140",yes,"OSM way 584436083 (leisure=playground, ""Parco Melontano"", Nominatim)"
 1,"Chiesa prepositurale di Santo Stefano, Tesserete",Tesserete,Church (historic),46.0676160,8.9655600,exact building,"https://www.google.com/maps?q=46.0676160,8.9655600",yes,OSM way 116841889 (Wikidata Q3674311); it.wikipedia https://it.wikipedia.org/wiki/Tesserete
 2,Casa museo Luigi Rossi,Tesserete,Museum,46.0705860,8.9638830,exact point (OSM node),"https://www.google.com/maps?q=46.0705860,8.9638830",yes,OSM node 5965986502 (Wikidata Q56877185)
 3,Scuola Media Tesserete and library,"Via Gola di Lago, Tesserete",School / civic landmark,46.0691010,8.9649900,exact building,"https://www.google.com/maps?q=46.0691010,8.9649900",yes,OSM way 109385394; library node 5928923295 (Wikidata Q56881062); it.wikipedia https://it.wikipedia.org/wiki/Tesserete
