@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Giardino Ferroviario (station garden),Balerna,Small park,45.8482140,9.0046290,site centroid (OSM way),"https://www.google.com/maps?q=45.8482140,9.0046290",yes,OSM way 1564752019; leisure=park; Balerna station 45 m away
+1,Collegiata di San Vittore,Balerna,Collegiate church (historic),45.8496460,9.0078940,exact building,"https://www.google.com/maps?q=45.8496460,9.0078940",yes,"OSM way 77766134; Wikidata Q3672205; swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5261 at 45.849668, 9.007898"
+2,Museo del caffè,Balerna,Museum (seen from outside),45.8423520,9.0044950,exact point (OSM node),"https://www.google.com/maps?q=45.8423520,9.0044950",yes,OSM node 5965904240; Wikidata Q27479712
+3,Ruins of Pontegana castle,"Pontegana, Balerna",Medieval castle ruins,45.8433480,9.0152740,exact point (KGS inventory),"https://www.google.com/maps?q=45.8433480,9.0152740",yes,"swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5262; gazetteer ""Ruderi del Castello"" 45.84322, 9.015275"
+4,Magazzini Generali,Balerna,Historic warehouse (seen from outside),45.8388380,9.0122870,exact point (KGS inventory),"https://www.google.com/maps?q=45.8388380,9.0122870",yes,swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR10265
+5,Fondazione Archivio del Moderno,Balerna,Cultural institute (seen from outside),45.8380860,9.0140820,exact point (OSM node),"https://www.google.com/maps?q=45.8380860,9.0140820",yes,OSM node 12565425447
+6,Chiesa-Oratorio di Sant’Antonio da Padova,"Sant’Antonio, Balerna",Church (historic),45.8454600,8.9982520,exact building,"https://www.google.com/maps?q=45.8454600,8.9982520",yes,OSM way 252950341; Wikidata Q3667823
+7,Scuola Media library,Balerna,School library (secondary point),45.8481250,9.0090440,exact point (OSM node),"https://www.google.com/maps?q=45.8481250,9.0090440",yes,OSM node 5496105065; Wikidata Q56881207
+8,Togna viewpoint,"Bisio, Balerna",Viewpoint,45.8493930,9.0099450,exact point (OSM node),"https://www.google.com/maps?q=45.8493930,9.0099450",yes,OSM node 13277278679; tourism=viewpoint
+9,Playground Via Fontana,"Via Fontana, Balerna",Playground,45.8501750,9.0055800,site centroid (OSM way),"https://www.google.com/maps?q=45.8501750,9.0055800",yes,OSM way 1221797288
+10,Cimitero di Bisio,"Bisio, Balerna",Cemetery (seen from outside),45.8472470,9.0067990,site centroid (OSM way),"https://www.google.com/maps?q=45.8472470,9.0067990",yes,OSM way 73029397

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Park next to the Scuola Media,Stabio,Park,45.8559360,8.9423770,site centroid (OSM way),"https://www.google.com/maps?q=45.8559360,8.9423770",yes,OSM way 1500858954; leisure=park
+1,Church of Santi Giacomo e Cristoforo,"Piazza Maggiore, Stabio",Parish church (historic),45.8507260,8.9384180,exact building,"https://www.google.com/maps?q=45.8507260,8.9384180",yes,OSM way 277479718; Wikidata Q3668178
+2,Church of San Pietro (old parish church),"San Pietro, Stabio",Church (historic) with Roman settlement site,45.8591940,8.9356500,exact building,"https://www.google.com/maps?q=45.8591940,8.9356500",yes,"OSM way 313455011; Wikidata Q29889968; swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR12031 Roman settlement at 45.858959, 8.934986 (60 m)"
+3,Bagni bus stop,Stabio,Bus stop (secondary point),45.8515420,8.9424440,exact point (OSM node),"https://www.google.com/maps?q=45.8515420,8.9424440",yes,OSM node 984006522
+4,Cimitero di Stabio,Stabio,Cemetery (seen from outside),45.8546000,8.9413580,site centroid (OSM way),"https://www.google.com/maps?q=45.8546000,8.9413580",yes,OSM way 277476779
+5,Playground Via Montalbano,"Via Montalbano, Stabio",Playground,45.8541320,8.9386250,site centroid (OSM way),"https://www.google.com/maps?q=45.8541320,8.9386250",yes,OSM way 1220085626
+6,Artwork Via Cantonale,"Via Cantonale, Stabio",Public artwork,45.8497800,8.9440600,exact point (OSM node),"https://www.google.com/maps?q=45.8497800,8.9440600",yes,OSM node 9806615669; tourism=artwork
+7,Case Rapelli bus stop,Stabio,Bus stop (secondary point),45.8450430,8.9268960,exact point (OSM node),"https://www.google.com/maps?q=45.8450430,8.9268960",yes,OSM node 3338569751
+8,Via Monticello viewpoint,"Via Monticello, Stabio",Viewpoint,45.8560420,8.9303640,exact point (OSM node),"https://www.google.com/maps?q=45.8560420,8.9303640",yes,OSM node 2863106776; tourism=viewpoint
+9,Cappella Santa Margherita,"Via Lische, Santa Margherita, Stabio",Chapel (historic),45.8393720,8.9340660,exact building,"https://www.google.com/maps?q=45.8393720,8.9340660",yes,"OSM way 271742952; Wikidata Q3673175; swisstopo gazetteer (api3.geo.admin.ch) 45.839375, 8.934071"
+10,Customs office San Pietro di Stabio,"San Pietro, Stabio",Border customs (seen from outside),45.8624040,8.9347210,building (gazetteer),"https://www.google.com/maps?q=45.8624040,8.9347210",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Ufficio doganale 24h San Pietro di Stabio"""

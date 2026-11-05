@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Intragna railway station,"Piazza Stazione, Intragna, Centovalli",Railway station,46.1775840,8.7021430,exact point (OSM node),"https://www.google.com/maps?q=46.1775840,8.7021430",yes,OSM node 1546861622; railway=station; Wikidata Q17637306
+1,Church of San Gottardo,"Intragna, Centovalli",Chapel / church (historic),46.1774840,8.7003000,exact building,"https://www.google.com/maps?q=46.1774840,8.7003000",yes,OSM way 457308646; Wikidata Q29884155
+2,Cücch viewpoint,"Sentiero al Cücch, Intragna",Viewpoint,46.1775210,8.6958340,exact point (OSM node),"https://www.google.com/maps?q=46.1775210,8.6958340",yes,OSM node 6780943685; tourism=viewpoint
+3,Drinking fountain Via Calezzo,"Via Calezzo, Calezzo, Intragna",Drinking fountain (secondary point),46.1790080,8.6908440,exact point (OSM node),"https://www.google.com/maps?q=46.1790080,8.6908440",yes,OSM node 9828139317; amenity=drinking_water
+4,Chiesa della Beata Vergine Addolorata,"Calezzo, Intragna",Chapel (historic),46.1766260,8.6876010,exact building,"https://www.google.com/maps?q=46.1766260,8.6876010",yes,OSM way 942902021; amenity=place_of_worship
+5,Drinking fountain Via Gottardo Piazzoni,"Via Gottardo Piazzoni, Intragna",Drinking fountain (secondary point),46.1745730,8.6924870,exact point (OSM node),"https://www.google.com/maps?q=46.1745730,8.6924870",yes,OSM node 1585412214; amenity=drinking_water
+6,Ponte Romano,"Ponte Romano, Intragna",Historic bridge / viewpoint,46.1725480,8.6901050,exact point (OSM way),"https://www.google.com/maps?q=46.1725480,8.6901050",yes,OSM way 62236377; footway; viewpoint node 1585412152 within 15 m
+7,Intragna Ponte bus stop,"Intragna, Centovalli",Bus stop (secondary point),46.1791190,8.7024720,exact point (OSM node),"https://www.google.com/maps?q=46.1791190,8.7024720",yes,OSM node 983985446
+8,Golino Ponte bus stop,"Golino, Centovalli",Bus stop (secondary point),46.1781640,8.7056070,exact point (OSM node),"https://www.google.com/maps?q=46.1781640,8.7056070",yes,OSM node 983984363
+9,Church of San Giorgio (Golino),"Via San Giorgio, Golino, Centovalli",Parish church (historic),46.1791900,8.7139520,exact building,"https://www.google.com/maps?q=46.1791900,8.7139520",yes,OSM way 361048267; Wikidata Q3670302; fountain node 13153860867 within 50 m
+10,Golino cemetery,"Golino, Centovalli",Cemetery (secondary point),46.1777840,8.7157730,exact area (OSM way),"https://www.google.com/maps?q=46.1777840,8.7157730",yes,OSM way 361318483; landuse=cemetery

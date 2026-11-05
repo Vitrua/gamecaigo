@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Playground Via Centro Civico (Arbedo),"Via Centro Civico, Arbedo",Playground,46.2127000,9.0422420,exact point (OSM node),"https://www.google.com/maps?q=46.2127000,9.0422420",yes,OSM node 3493567249; leisure=playground
+1,Chiesa Santa Maria Assunta (Arbedo),Arbedo,Parish church (historic),46.2124910,9.0468080,exact building,"https://www.google.com/maps?q=46.2124910,9.0468080",yes,OSM way 142770624; Wikidata Q3673254; cemetery within 30 m
+2,Chiesa di San Giuseppe (Arbedo),Arbedo,Church,46.2113830,9.0416700,exact building,"https://www.google.com/maps?q=46.2113830,9.0416700",yes,OSM way 342353484; Wikidata Q3670599
+3,Chiesa di San Paolo (Chiesa Rossa),Arbedo,Church (historic),46.2059960,9.0392290,exact building,"https://www.google.com/maps?q=46.2059960,9.0392290",yes,"OSM way 373484375; Wikidata Q3671568; swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5238 at 46.205989, 9.039238"
+4,Arbedo Beach (Ticino riverside),Arbedo,River beach,46.2179100,9.0400820,exact point (OSM node),"https://www.google.com/maps?q=46.2179100,9.0400820",yes,OSM node 6680342544; tourism=attraction; Spiaggietta di Arbedo way 1287466451 within 100 m
+5,Castione-Arbedo railway station,Castione,Railway station,46.2243000,9.0416240,exact point (OSM node),"https://www.google.com/maps?q=46.2243000,9.0416240",yes,OSM node 2266207797; Wikidata Q5049962
+6,Chiesa di San Carlo Borromeo (Castione),Castione,Church,46.2272450,9.0474290,exact building,"https://www.google.com/maps?q=46.2272450,9.0474290",yes,OSM way 322874785; Wikidata Q55414407; cemetery within 90 m
+7,Biblioteca “Tic-Tac”,Castione,Library,46.2267830,9.0437600,exact point (OSM way),"https://www.google.com/maps?q=46.2267830,9.0437600",yes,OSM way 989140442
+8,Playground Carrale di Bergamo,"Carrale di Bergamo, Castione",Playground,46.2258260,9.0506640,site centroid (OSM way),"https://www.google.com/maps?q=46.2258260,9.0506640",yes,OSM way 342610366
+9,Playground Viale Moesa,"Viale Moesa, Arbedo",Playground,46.2201910,9.0496080,site centroid (OSM way),"https://www.google.com/maps?q=46.2201910,9.0496080",yes,OSM way 142779895
+10,Alla Cave bus stop,Castione,Bus stop (secondary point),46.2288130,9.0411880,exact point (OSM node),"https://www.google.com/maps?q=46.2288130,9.0411880",yes,OSM node 12402595163

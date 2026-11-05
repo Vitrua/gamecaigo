@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Playground Via delle Scuole,"Via delle Scuole, Sant’Antonino",Playground,46.1539790,8.9748030,site centroid (OSM way),"https://www.google.com/maps?q=46.1539790,8.9748030",yes,OSM way 1099365383; leisure=playground
+1,Parish church (Via Cimitero),"Via Cimitero, Sant’Antonino",Parish church (historic),46.1534160,8.9786540,exact building,"https://www.google.com/maps?q=46.1534160,8.9786540",yes,OSM way 618752139; Wikidata Q55414273; cemetery way 785215272 within 85 m
+2,Drinking fountain Via Cima Paese,"Via Cima Paese, Sant’Antonino",Drinking fountain (secondary point),46.1517710,8.9797520,exact point (OSM node),"https://www.google.com/maps?q=46.1517710,8.9797520",yes,OSM node 5797454360; amenity=drinking_water
+3,Monda bus stop,Sant’Antonino,Bus stop (secondary point),46.1552050,8.9806920,exact point (OSM node),"https://www.google.com/maps?q=46.1552050,8.9806920",yes,OSM node 3493945008
+4,Matro bus stop,Sant’Antonino,Bus stop (secondary point),46.1539620,8.9826980,exact point (OSM node),"https://www.google.com/maps?q=46.1539620,8.9826980",yes,OSM node 13825014005
+5,Al Maglio bus stop,Sant’Antonino,Bus stop (secondary point),46.1537870,8.9900320,exact point (OSM node),"https://www.google.com/maps?q=46.1537870,8.9900320",yes,OSM node 13825014007
+6,Playground Via al Ticino,"Via al Ticino, Sant’Antonino",Playground,46.1599110,8.9730510,site centroid (OSM way),"https://www.google.com/maps?q=46.1599110,8.9730510",yes,OSM way 617092474
+7,Lati bus stop,Sant’Antonino,Bus stop (secondary point),46.1567990,8.9680110,exact point (OSM node),"https://www.google.com/maps?q=46.1567990,8.9680110",yes,OSM node 10079223592
+8,A2 viewpoint,Sant’Antonino,Viewpoint,46.1442990,8.9758190,exact point (OSM node),"https://www.google.com/maps?q=46.1442990,8.9758190",yes,OSM node 5837134552; tourism=viewpoint
+9,Viadotto dei Ronchi,Sant’Antonino,Viaduct (seen from the road),46.1506350,8.9651360,road feature (gazetteer),"https://www.google.com/maps?q=46.1506350,8.9651360",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Viadotto dei Ronchi"" (shared with Cadenazzo)"
+10,Ceneri Base Tunnel area,Sant’Antonino,Railway tunnel area (seen from outside),46.1538890,8.9867930,approximate (gazetteer rail-line point),"https://www.google.com/maps?q=46.1538890,8.9867930",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Galleria di Base del Ceneri"""

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Fountain Via Cantonale (Magadino),"Via Cantonale, Magadino",Fountain on the lakefront road,46.1482870,8.8553680,site (OSM way),"https://www.google.com/maps?q=46.1482870,8.8553680",yes,OSM way 1190149469; amenity=fountain; Magadino ferry landing node 984006636 within 50 m
+1,Chiesa di San Carlo Borromeo (Magadino),Magadino,Church (historic),46.1476260,8.8569890,exact building,"https://www.google.com/maps?q=46.1476260,8.8569890",yes,OSM way 245716687; Wikidata Q3669741; Oratorio della Madonna della Neve (way 288519503) within 80 m
+2,Magadino-Vira railway station,Magadino,Railway station,46.1462430,8.8515870,exact point (OSM node),"https://www.google.com/maps?q=46.1462430,8.8515870",yes,OSM node 12093059372; highway=bus_stop at the station forecourt
+3,Oratorio di Sant’Antonio da Padova (Orgnana),"Orgnana, Magadino",Oratory (historic),46.1451010,8.8626910,exact building,"https://www.google.com/maps?q=46.1451010,8.8626910",yes,OSM way 345229336
+4,Al Ponte bus stop,Magadino,Bus stop (secondary point),46.1496700,8.8767240,exact point (OSM node),"https://www.google.com/maps?q=46.1496700,8.8767240",yes,OSM node 12442413118
+5,Cavriana bus stop,"Cavriana, Magadino",Bus stop (secondary point),46.1463290,8.8658430,exact point (OSM node),"https://www.google.com/maps?q=46.1463290,8.8658430",yes,OSM node 12441397551
+6,Chiesa dei Santi Pietro e Paolo (Vira),Vira Gambarogno,Church (historic),46.1444830,8.8411210,exact building,"https://www.google.com/maps?q=46.1444830,8.8411210",yes,OSM way 301995987; Wikidata Q3668381; Oratorio di Santa Maria Maddalena (way 458749378) within 50 m
+7,Vira Paese bus stop,Vira Gambarogno,Bus stop (secondary point),46.1440430,8.8433300,exact point (OSM node),"https://www.google.com/maps?q=46.1440430,8.8433300",yes,OSM node 984003656
+8,Church of Monti di Piazzogna,"Via delle Scuole, Piazzogna",Church (hillside hamlet),46.1351640,8.8247720,exact building,"https://www.google.com/maps?q=46.1351640,8.8247720",yes,OSM way 458915474; Wikidata Q55414151
+9,Bellavista bus stop,Vira Gambarogno,Bus stop (secondary point),46.1411380,8.8395450,exact point (OSM node),"https://www.google.com/maps?q=46.1411380,8.8395450",yes,OSM node 984006932
+10,Rozzolo bus stop,"Rozzolo, Magadino",Bus stop (secondary point),46.1471480,8.8594400,exact point (OSM node),"https://www.google.com/maps?q=46.1471480,8.8594400",yes,OSM node 12441397549

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Playground Piazza del Centro (Gerra),"Piazza del Centro, Gerra Piano",Playground / square,46.1750270,8.9111150,exact point (OSM node),"https://www.google.com/maps?q=46.1750270,8.9111150",yes,OSM node 6913835285; leisure=playground
+1,"Church (Via alla Chiesa), Cugnasco","Via alla Chiesa, Cugnasco",Church,46.1742550,8.9175480,exact building,"https://www.google.com/maps?q=46.1742550,8.9175480",yes,OSM way 328455358; amenity=place_of_worship; cemetery way 328276664 within 90 m
+2,Scuola elementare di Cugnasco-Gerra,Cugnasco,School (seen from outside),46.1769220,8.9164190,building (gazetteer),"https://www.google.com/maps?q=46.1769220,8.9164190",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Scuola elementare di Cugnasco-Gerra"""
+3,Cugnasco Posta bus stop,Cugnasco,Bus stop (secondary point),46.1752300,8.9189390,exact point (OSM node),"https://www.google.com/maps?q=46.1752300,8.9189390",yes,OSM node 1729306301
+4,Oratorio di San Martino (Ditto),"Ditto, Cugnasco-Gerra","Oratory (historic, hamlet)",46.1868240,8.8883860,exact building,"https://www.google.com/maps?q=46.1868240,8.8883860",yes,"OSM way 874532187; Wikidata Q3671042; swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5442 at 46.186819, 8.888393"
+5,Oratorio dei SS. Anna e Cristoforo (Curogna),"Curogna, Cugnasco-Gerra","Oratory (historic, hamlet)",46.1842890,8.9059810,exact point (KGS inventory),"https://www.google.com/maps?q=46.1842890,8.9059810",yes,swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5441
+6,Centro Professionale bus stop,Gerra Piano,Bus stop (secondary point),46.1735330,8.9065380,exact point (OSM node),"https://www.google.com/maps?q=46.1735330,8.9065380",yes,OSM node 984708036
+7,Agarone Paese bus stop,Agarone,Bus stop (secondary point),46.1783950,8.9059480,exact point (OSM node),"https://www.google.com/maps?q=46.1783950,8.9059480",yes,OSM node 984703230
+8,Medoscio Paese bus stop,Medoscio,Bus stop (secondary point),46.1816780,8.9041980,exact point (OSM node),"https://www.google.com/maps?q=46.1816780,8.9041980",yes,OSM node 984707161
+9,Massarescio bus stop,"Massarescio, Cugnasco",Bus stop (secondary point),46.1753340,8.9264940,exact point (OSM node),"https://www.google.com/maps?q=46.1753340,8.9264940",yes,OSM node 984707993
+10,Colletto bus stop,"Colletto, Cugnasco-Gerra",Bus stop (secondary point),46.1806820,8.9117650,exact point (OSM node),"https://www.google.com/maps?q=46.1806820,8.9117650",yes,OSM node 984707214

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Piazza di Ton (Taverne),"Piazza di Ton, Taverne",Village square,46.0656597,8.9323838,"exact point (OSM way, mid-point)","https://www.google.com/maps?q=46.0656597,8.9323838",yes,OSM way 1034322160; place=square
+1,Parish church of Santi Maurizio e Biagio (Torricella),Torricella,Parish church (historic),46.0643500,8.9222200,exact building,"https://www.google.com/maps?q=46.0643500,8.9222200",yes,OSM way 466165764; Wikidata Q3668296; cemetery within 40 m
+2,Chiesetta San Rocco (Torricella),"Piazza San Rocco, Torricella",Oratory (historic),46.0667480,8.9221210,exact building,"https://www.google.com/maps?q=46.0667480,8.9221210",yes,OSM way 466169682; Piazza San Rocco (OSM way 360152749) beside it
+3,Oratory of Santa Maria Maddalena (Taverne),"Via S. M. Maddalena, Taverne",Oratory (historic),46.0668080,8.9342650,exact building,"https://www.google.com/maps?q=46.0668080,8.9342650",yes,OSM way 616188862; Wikidata Q55414061
+4,Ruins of the medieval castle,Taverne,Castle ruins (seen from outside),46.0692720,8.9311460,exact point (KGS inventory),"https://www.google.com/maps?q=46.0692720,8.9311460",yes,"swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR12032; gazetteer ""Ruderi del Castello"" 46.069916, 8.931812"
+5,Musée d’Argine,Taverne,Museum (seen from outside),46.0606560,8.9302410,exact point (OSM node),"https://www.google.com/maps?q=46.0606560,8.9302410",yes,OSM node 7612233685; tourism=museum
+6,Taverne-Torricella railway station,Taverne,Railway station,46.0566390,8.9303840,exact point (OSM node),"https://www.google.com/maps?q=46.0566390,8.9303840",yes,OSM node 2458507606; Wikidata Q3971091
+7,Naravazz bus stop,"Naravazz, Torricella-Taverne",Bus stop (secondary point),46.0599590,8.9190290,exact point (OSM node),"https://www.google.com/maps?q=46.0599590,8.9190290",yes,OSM node 984002239
+8,Vignascia bus stop,Torricella,Bus stop (secondary point),46.0663600,8.9245140,exact point (OSM node),"https://www.google.com/maps?q=46.0663600,8.9245140",yes,OSM node 984002222
+9,Casette bus stop,Torricella-Taverne,Bus stop (secondary point),46.0606400,8.9256740,exact point (OSM node),"https://www.google.com/maps?q=46.0606400,8.9256740",yes,OSM node 12438457936
+10,"Taverne, Carvina bus stop","Carvina, Taverne",Bus stop (secondary point),46.0621130,8.9280190,exact point (OSM node),"https://www.google.com/maps?q=46.0621130,8.9280190",yes,OSM node 984002201

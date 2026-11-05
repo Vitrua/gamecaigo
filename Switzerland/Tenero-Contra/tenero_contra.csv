@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Park in Tenero,Tenero,Park,46.1809170,8.8510120,site centroid (OSM way),"https://www.google.com/maps?q=46.1809170,8.8510120",yes,OSM way 298630309; leisure=park
+1,Church of Santi Pietro e Vincenzo,Tenero,Parish church (historic),46.1812380,8.8485590,exact building,"https://www.google.com/maps?q=46.1812380,8.8485590",yes,OSM way 315095928; Wikidata Q3668388; cemetery within 40 m
+2,Oratorio della Beata Vergine della Fraccia,Tenero,Oratory (historic),46.1830630,8.8489510,exact building,"https://www.google.com/maps?q=46.1830630,8.8489510",yes,OSM way 345229333; Wikidata Q55414235
+3,Tenero railway station,Tenero,Railway station,46.1773950,8.8517240,exact point (OSM node),"https://www.google.com/maps?q=46.1773950,8.8517240",yes,OSM node 2462102649; Wikidata Q12174832; Scuola elementare di Tenero 110 m away
+4,Church of San Bernardo di Chiaravalle,"Contra, Tenero-Contra",Church (historic),46.1884830,8.8402170,exact building,"https://www.google.com/maps?q=46.1884830,8.8402170",yes,OSM way 345229331; Wikidata Q3669662
+5,Capèla del Moton,"Contra, Tenero-Contra",Chapel (hillside),46.1967570,8.8437690,exact building,"https://www.google.com/maps?q=46.1967570,8.8437690",yes,OSM way 1393940500
+6,Contra Dam,"Contra, Tenero-Contra",Dam (seen from outside),46.1965900,8.8482800,exact point (gazetteer),"https://www.google.com/maps?q=46.1965900,8.8482800",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Diga Contra"" (Tenero-Contra / Gordola border)"
+7,Centro sportivo nazionale della gioventù (CST) pool,Tenero,Sports centre pool (seen from outside),46.1723480,8.8494790,exact point (gazetteer),"https://www.google.com/maps?q=46.1723480,8.8494790",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Piscina Centro sportivo nazionale della gioventù Tenero CST"""
+8,Dog Beach,Tenero,Lakeshore beach,46.1731800,8.8448550,site centroid (OSM way),"https://www.google.com/maps?q=46.1731800,8.8448550",yes,OSM way 1455715800; natural=beach
+9,Bagno pubblico Tenero,Tenero,Public lido / beach,46.1670660,8.8509640,site centroid (OSM way),"https://www.google.com/maps?q=46.1670660,8.8509640",yes,"OSM way 1198478355; natural=beach; gazetteer ""Piscina Lido"" 46.167461, 8.850759"
+10,Playground Via Lido,"Via Lido, Tenero",Playground,46.1679970,8.8540340,site centroid (OSM way),"https://www.google.com/maps?q=46.1679970,8.8540340",yes,OSM way 1003413027

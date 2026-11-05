@@ -1,0 +1,23 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Piazza Indipendenza fountain,"Piazza Indipendenza, Chiasso",Square with fountain (start option 1),45.8334990,9.0306200,exact point (OSM way),"https://www.google.com/maps?q=45.8334990,9.0306200",yes,OSM way 375837007; amenity=fountain
+START,Laghetto park,Chiasso,Park (start option 2),45.8316910,9.0248490,site centroid (OSM way),"https://www.google.com/maps?q=45.8316910,9.0248490",yes,OSM way 301392977; leisure=park
+1,Chiesa di San Vitale,Chiasso,Church (historic),45.8349430,9.0270740,exact building,"https://www.google.com/maps?q=45.8349430,9.0270740",yes,OSM way 77766127; Wikidata Q3672176
+2,Chiasso railway station,Chiasso,Railway station,45.8322300,9.0314150,exact point (OSM node),"https://www.google.com/maps?q=45.8322300,9.0314150",yes,OSM node 3092179807; Wikidata Q683236
+3,"Artwork ""Borders""",Chiasso,Public artwork,45.8337280,9.0292570,exact point (OSM node),"https://www.google.com/maps?q=45.8337280,9.0292570",yes,OSM node 13629246765; tourism=artwork
+4,m.a.x. museo,Chiasso,Museum (seen from outside),45.8368990,9.0268250,exact building,"https://www.google.com/maps?q=45.8368990,9.0268250",yes,OSM way 301708816; Wikidata Q16574566; Cinema Teatro within 45 m
+5,Biblioteca comunale di Chiasso,Chiasso,Library,45.8378400,9.0301770,exact point (OSM node),"https://www.google.com/maps?q=45.8378400,9.0301770",yes,OSM node 3265867696; Wikidata Q56881922
+6,Brogeda commercial customs,"Via Gerolamo Porta, Chiasso",Border customs (seen from outside),45.8356906,9.0371449,building (Nominatim),"https://www.google.com/maps?q=45.8356906,9.0371449",yes,OSM way 172652982; amenity=customs
+7,Playground Via Emilio Bossi,"Via Emilio Bossi, Chiasso",Playground,45.8356820,9.0328930,site centroid (OSM way),"https://www.google.com/maps?q=45.8356820,9.0328930",yes,OSM way 298335253
+8,Playground Via Odescalchi,"Via Odescalchi, Chiasso",Playground (secondary point),45.8338720,9.0353830,site centroid (OSM way),"https://www.google.com/maps?q=45.8338720,9.0353830",yes,OSM way 1548129121
+9,Al Sasso bus stop,Chiasso,Bus stop (secondary point),45.8298730,9.0334570,exact point (OSM node),"https://www.google.com/maps?q=45.8298730,9.0334570",yes,OSM node 984005455
+10,Boffalora fountain,"Piazza Boffalora, Chiasso",Fountain,45.8378870,9.0220730,exact point (OSM node),"https://www.google.com/maps?q=45.8378870,9.0220730",yes,OSM node 3261817886; amenity=fountain
+11,Cimitero di Chiasso,Chiasso,Cemetery (seen from outside),45.8377440,9.0184960,site centroid (OSM way),"https://www.google.com/maps?q=45.8377440,9.0184960",yes,OSM way 73029392; Wikidata Q87204191
+12,Playground Via Soldini,"Via Soldini, Chiasso",Playground (secondary point),45.8347440,9.0175080,site centroid (OSM way),"https://www.google.com/maps?q=45.8347440,9.0175080",yes,OSM way 308644902
+13,Funtanin dal Penz,Chiasso,Fountain / drinking water (secondary point),45.8315500,9.0174130,exact point (OSM node),"https://www.google.com/maps?q=45.8315500,9.0174130",yes,OSM node 3050700696; amenity=drinking_water
+14,Parco Centro Giovani,Chiasso,Park,45.8327850,9.0218460,site centroid (OSM way),"https://www.google.com/maps?q=45.8327850,9.0218460",yes,OSM way 1030553425; leisure=park
+15,Bellavista bus stop,Chiasso,"Bus stop (secondary point, hillside)",45.8272530,9.0222180,exact point (OSM node),"https://www.google.com/maps?q=45.8272530,9.0222180",yes,OSM node 13618377449
+16,Belvedere Dosso Pallanza,Chiasso,Viewpoint (hillside),45.8226850,9.0283500,exact point (OSM node),"https://www.google.com/maps?q=45.8226850,9.0283500",yes,OSM node 2225053949; tourism=viewpoint
+17,Chiesa di Santa Croce (Pedrinate),"Pedrinate, Chiasso","Church (historic, hamlet)",45.8266010,9.0112060,exact building,"https://www.google.com/maps?q=45.8266010,9.0112060",yes,OSM way 304402474; Wikidata Q3673014
+18,Chiesa-oratorio di Santo Stefano al Colle,"Pedrinate, Chiasso","Church (historic, hamlet)",45.8302980,9.0037970,exact building,"https://www.google.com/maps?q=45.8302980,9.0037970",yes,OSM way 252695068; Wikidata Q3667828
+19,Seseglio cemetery,"Seseglio, Chiasso","Cemetery (seen from outside, hamlet)",45.8281730,9.0063520,site centroid (OSM way),"https://www.google.com/maps?q=45.8281730,9.0063520",yes,OSM way 304224152
+20,Chiesa di Santa Teresa del Bambin Gesù (Seseglio),"Via Campagna, Seseglio, Chiasso",Church (hamlet),45.8269000,8.9992960,exact building,"https://www.google.com/maps?q=45.8269000,8.9992960",yes,OSM way 304415625; Wikidata Q55381881

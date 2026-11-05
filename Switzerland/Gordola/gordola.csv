@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Playground Vicolo al Porto,"Vicolo al Porto, Gordola",Playground,46.1812760,8.8647240,exact point (OSM node),"https://www.google.com/maps?q=46.1812760,8.8647240",yes,OSM node 13232652738; leisure=playground
+1,Church of Sant’Antonio Abate,"Gordemo, Gordola",Parish church (historic),46.1822570,8.8631040,exact building,"https://www.google.com/maps?q=46.1822570,8.8631040",yes,OSM way 453665958; Wikidata Q55414262
+2,Cimitero di Gordola,Gordola,Cemetery (seen from outside),46.1800740,8.8638510,site centroid (OSM way),"https://www.google.com/maps?q=46.1800740,8.8638510",yes,OSM way 318117483
+3,Gordola railway station,Gordola,Railway station,46.1788900,8.8668810,exact point (OSM node),"https://www.google.com/maps?q=46.1788900,8.8668810",yes,OSM node 2462102645; Wikidata Q12174801
+4,Scuola elementare di Gordola,Gordola,School (seen from outside),46.1828770,8.8598980,building (gazetteer),"https://www.google.com/maps?q=46.1828770,8.8598980",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Scuola elementare di Gordola"""
+5,Biblioteca della Scuola Media,Gordola,School library (secondary point),46.1731930,8.8641330,exact point (OSM node),"https://www.google.com/maps?q=46.1731930,8.8641330",yes,OSM node 5870712273; Wikidata Q56881176
+6,Verzasca Dam viewpoint,"Diga della Verzasca, Gordola",Dam / viewpoint,46.1966120,8.8485320,exact point (OSM node),"https://www.google.com/maps?q=46.1966120,8.8485320",yes,OSM node 4578043191; tourism=viewpoint; bungee-jumping attraction node 11210062 within 20 m
+7,Playground Parco Avventura,Gordola,Playground,46.1749730,8.8614440,site centroid (OSM way),"https://www.google.com/maps?q=46.1749730,8.8614440",yes,OSM way 878571122
+8,Playground Via Gaggiole,"Via Gaggiole, Gordola",Playground (secondary point),46.1808480,8.8715780,site centroid (OSM way),"https://www.google.com/maps?q=46.1808480,8.8715780",yes,OSM way 1436140899
+9,Fountain Via al Fiume,"Via al Fiume, Gordola",Fountain (secondary point),46.1780430,8.8608400,exact point (OSM node),"https://www.google.com/maps?q=46.1780430,8.8608400",yes,OSM node 6723006771; amenity=fountain
+10,Centro Professionale bus stop,Gordola,Bus stop (secondary point),46.1706850,8.8656990,exact point (OSM node),"https://www.google.com/maps?q=46.1706850,8.8656990",yes,OSM node 12089311854

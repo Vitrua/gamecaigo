@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Parco Via Sottomontagna,"Via Sottomontagna, Cadenazzo",Park,46.1490130,8.9459780,site centroid (OSM way),"https://www.google.com/maps?q=46.1490130,8.9459780",yes,OSM way 1121068668; leisure=park
+1,Cimitero di Cadenazzo,Cadenazzo,Cemetery (seen from outside),46.1497710,8.9480290,site centroid (OSM way),"https://www.google.com/maps?q=46.1497710,8.9480290",yes,OSM way 317936463; Wikidata Q88806668
+2,Cadenazzo railway station,Cadenazzo,Railway station,46.1525520,8.9417260,exact point (OSM node),"https://www.google.com/maps?q=46.1525520,8.9417260",yes,OSM node 2278756340; Wikidata Q5016368
+3,Church at A Piantürin,"A Piantürin, Cadenazzo",Church,46.1489270,8.9521070,exact building,"https://www.google.com/maps?q=46.1489270,8.9521070",yes,OSM way 403286741; amenity=place_of_worship; artwork node 5843756739 within 40 m
+4,Biblioteca comunale per ragazzi,Cadenazzo,Children’s library,46.1504230,8.9507170,exact point (OSM node),"https://www.google.com/maps?q=46.1504230,8.9507170",yes,OSM node 5926572180; Wikidata Q56881591
+5,Scuola Media library,Cadenazzo,School library (secondary point),46.1510170,8.9418560,exact point (OSM node),"https://www.google.com/maps?q=46.1510170,8.9418560",yes,OSM node 5867564893; Wikidata Q56881188; station 170 m away
+6,Playground Via alle vigne,"Via alle vigne, Cadenazzo",Playground,46.1512430,8.9452670,exact point (OSM node),"https://www.google.com/maps?q=46.1512430,8.9452670",yes,OSM node 12349547673; way 1334900994 within 2 m
+7,Playground Via Stazione,"Via Stazione, Cadenazzo",Playground (secondary point),46.1522360,8.9378590,exact point (OSM node),"https://www.google.com/maps?q=46.1522360,8.9378590",yes,OSM node 9043621466
+8,Bivio Sasselli bus stop,Cadenazzo,Bus stop (secondary point),46.1451810,8.9401940,exact point (OSM node),"https://www.google.com/maps?q=46.1451810,8.9401940",yes,OSM node 5793558893
+9,Church in Robasacco (Via Meridiana),"Via Meridiana, Robasacco, Cadenazzo",Church,46.1426280,8.9406270,exact building,"https://www.google.com/maps?q=46.1426280,8.9406270",yes,OSM way 610215951; Wikidata Q55382060
+10,Playground Via degli Orti,"Via degli Orti, Robasacco, Cadenazzo",Playground (secondary point),46.1427760,8.9473380,site centroid (OSM way),"https://www.google.com/maps?q=46.1427760,8.9473380",yes,OSM way 1179885177

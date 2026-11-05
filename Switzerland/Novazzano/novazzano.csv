@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Park Castel di Sotto,"Castel di Sotto, Novazzano",Park,45.8401140,8.9795320,site centroid (OSM way),"https://www.google.com/maps?q=45.8401140,8.9795320",yes,OSM way 307497622; leisure=park
+1,Church of Santi Quirico e Giulitta,Novazzano,Parish church (historic),45.8415140,8.9813300,exact building,"https://www.google.com/maps?q=45.8415140,8.9813300",yes,OSM way 299842931; Wikidata Q3668411
+2,Biblioteca comunale di Novazzano,Novazzano,Library,45.8418800,8.9790200,exact point (OSM node),"https://www.google.com/maps?q=45.8418800,8.9790200",yes,OSM node 5888075234; Wikidata Q56881865
+3,Customs office 24h Novazzano,Novazzano,Border customs (seen from outside),45.8366510,8.9826830,building (gazetteer),"https://www.google.com/maps?q=45.8366510,8.9826830",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Ufficio doganale 24h Novazzano"""
+4,Playground Via Boschetto,"Via Boschetto, Boscherina, Novazzano",Playground,45.8392610,8.9756380,exact point (OSM node),"https://www.google.com/maps?q=45.8392610,8.9756380",yes,OSM node 12683777641
+5,Monte Morello wayside cross,"Monte Morello, Novazzano",Wayside cross (historic),45.8379590,8.9733880,exact point (OSM node),"https://www.google.com/maps?q=45.8379590,8.9733880",yes,OSM node 4379632265
+6,Bivio Boscherina bus stop,"Boscherina, Novazzano",Bus stop (secondary point),45.8434000,8.9724970,exact point (OSM node),"https://www.google.com/maps?q=45.8434000,8.9724970",yes,OSM node 984006208
+7,Al Gaggio bus stop,Novazzano,Bus stop (secondary point),45.8428850,8.9690150,exact point (OSM node),"https://www.google.com/maps?q=45.8428850,8.9690150",yes,OSM node 984006335
+8,Playground Via Castel di Sotto,"Via Castel di Sotto, Novazzano",Playground,45.8433910,8.9897960,site centroid (OSM way),"https://www.google.com/maps?q=45.8433910,8.9897960",yes,OSM way 1373106094
+9,Ex cava argilla park,Novazzano,Park (former clay quarry),45.8446330,8.9918480,site centroid (OSM way),"https://www.google.com/maps?q=45.8446330,8.9918480",yes,OSM way 301695588; leisure=park
+10,Border stone 87,Novazzano,Border marker (secondary point),45.8373300,8.9892170,exact point (gazetteer),"https://www.google.com/maps?q=45.8373300,8.9892170",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Cippo di confine 87(R)sv"""

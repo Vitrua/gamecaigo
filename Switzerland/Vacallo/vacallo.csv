@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Parco giochi Vacallo,Vacallo,Playground / park,45.8424350,9.0299790,site centroid (OSM way),"https://www.google.com/maps?q=45.8424350,9.0299790",yes,OSM way 298160365; leisure=playground
+1,Church of Santi Simone e Giuda,Vacallo,Church (historic),45.8433410,9.0291810,exact building,"https://www.google.com/maps?q=45.8433410,9.0291810",yes,"OSM way 254738688; Wikidata Q3668448; swisstopo gazetteer (api3.geo.admin.ch) 45.843319, 9.029184"
+2,Cimitero comunale,Vacallo,Cemetery (seen from outside),45.8460190,9.0306840,site centroid (OSM way),"https://www.google.com/maps?q=45.8460190,9.0306840",yes,OSM way 73029395
+3,Church of Santa Croce,Vacallo,Church (historic),45.8475790,9.0348250,exact building,"https://www.google.com/maps?q=45.8475790,9.0348250",yes,OSM way 298104270; Wikidata Q3673031; Piazza Municipio fountain within 30 m
+4,Letra bus stop,Vacallo,Bus stop (secondary point),45.8423820,9.0275840,exact point (OSM node),"https://www.google.com/maps?q=45.8423820,9.0275840",yes,OSM node 3065459375
+5,Reformed Evangelical church,Vacallo,Church,45.8397580,9.0298810,exact building,"https://www.google.com/maps?q=45.8397580,9.0298810",yes,OSM way 300832495; Wikidata Q55381885
+6,Casa Materna bus stop,Vacallo,Bus stop (secondary point),45.8429850,9.0324400,exact point (OSM node),"https://www.google.com/maps?q=45.8429850,9.0324400",yes,OSM node 984005537
+7,Border stone 65.A,Vacallo,Border marker (secondary point),45.8438990,9.0385530,exact point (gazetteer),"https://www.google.com/maps?q=45.8438990,9.0385530",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Cippo di confine 65.A"""
+8,Border stone 65.D,Vacallo,Border marker (secondary point),45.8421520,9.0386070,exact point (gazetteer),"https://www.google.com/maps?q=45.8421520,9.0386070",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Cippo di confine 65.D(R)sv"""
+9,Border stone 60,Vacallo,Border marker (secondary point),45.8475300,9.0442480,exact point (gazetteer),"https://www.google.com/maps?q=45.8475300,9.0442480",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Cippo di confine 60"""
+10,Drinking fountain near the A2 motorway,Vacallo,Drinking fountain (secondary point),45.8396520,9.0252980,exact point (OSM node),"https://www.google.com/maps?q=45.8396520,9.0252980",yes,"OSM node 3260440028; amenity=drinking_water; Nominatim assigns the road to Chiasso, the point lies within the Vacallo border"

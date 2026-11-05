@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Playground Via Gerra,"Via Gerra, Faido",Playground,46.4771160,8.7975030,site centroid (OSM way),"https://www.google.com/maps?q=46.4771160,8.7975030",yes,OSM way 1164536596; leisure=playground
+1,Church of Sant’Andrea,Faido,Parish church (historic),46.4789800,8.7978420,exact building,"https://www.google.com/maps?q=46.4789800,8.7978420",yes,OSM way 305063366; Wikidata Q3672392; Oratorio di San Bernardino da Siena (way 344998616) and Casa Selvini (swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5452) within 100 m
+2,Church of San Francesco d’Assisi (Capuchin convent),Faido,Church and convent (historic),46.4777210,8.8028150,exact point (OSM node),"https://www.google.com/maps?q=46.4777210,8.8028150",yes,"OSM node 3517047415; Wikidata Q3670134; gazetteer ""Convento dei Cappuccini"" 46.477955, 8.802706"
+3,Santuario della Madonna delle Rive,Faido,Sanctuary (historic),46.4803200,8.8030730,exact building,"https://www.google.com/maps?q=46.4803200,8.8030730",yes,OSM way 344998617
+4,Faido railway station,Faido,Railway station,46.4830910,8.7908020,exact point (OSM node),"https://www.google.com/maps?q=46.4830910,8.7908020",yes,OSM node 3080372087; Wikidata Q5429646
+5,Church of San Siro (Mairengo),"Mairengo, Faido",Church (historic),46.4891150,8.7873850,exact building,"https://www.google.com/maps?q=46.4891150,8.7873850",yes,OSM way 545818609; Wikidata Q3672079
+6,Church in Calpiogna,"Calpiogna, Faido",Church,46.4868850,8.8053620,exact building,"https://www.google.com/maps?q=46.4868850,8.8053620",yes,OSM way 397752010; Wikidata Q3672744
+7,Church in Campello,"Campello, Faido",Church,46.4868230,8.8188360,exact building,"https://www.google.com/maps?q=46.4868230,8.8188360",yes,OSM way 397751989; Wikidata Q55414674
+8,Parish church of SS. Lorenzo e Agata (Chiggiogna),"Chiggiogna, Faido",Parish church (historic),46.4749200,8.8247870,exact point (KGS inventory),"https://www.google.com/maps?q=46.4749200,8.8247870",yes,swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR5709
+9,Centro Scolastico bus stop,Faido,Bus stop (secondary point),46.4767260,8.8005120,exact point (OSM node),"https://www.google.com/maps?q=46.4767260,8.8005120",yes,OSM node 984708665
+10,Ospedale Distrettuale bus stop,Faido,Bus stop (secondary point),46.4781640,8.8058480,exact point (OSM node),"https://www.google.com/maps?q=46.4781640,8.8058480",yes,OSM node 4997225313
