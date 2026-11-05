@@ -1,0 +1,56 @@
+The 10 questions, 4 answers each
+
+1. Church of Santi Cosma e Damiano. A Roman plaque dedicated to which man is built into Mendrisio’s bell tower?
+A) Gaius Plinius  B) Publio Valerio Dromone  C) Lucius Verus  D) Marcus Aurelius
+
+2. San Giovanni complex. Santa Maria delle Grazie, in the San Giovanni complex, dates from which year?
+A) 1466  B) 1518  C) 1621  D) 1268
+
+3. Casa Croci. In which year was Casa Croci built?
+A) 1875  B) 1719  C) 1853  D) 1912
+
+4. Palazzo Turconi. Palazzo Turconi, built 1853–1860 as a hospital, was designed by which architect?
+A) Mario Botta  B) Domenico Fontana  C) Luigi Fontana  D) Luigi Snozzi
+
+5. Church of San Sisinio alla Torre. The place name "alla Torre" recalls a medieval castle of which family?
+A) The Visconti family  B) The Sanseverino family  C) The Della Torre family  D) The Beroldingen family
+
+6. Mendrisio railway station. Since 2018 Mendrisio has been the end of a rail line to Varese, and from 2019 it reaches which airport?
+A) Milan Malpensa  B) Milan Linate  C) Bergamo Orio al Serio  D) Zurich
+
+7. Church of San Martino. In which year is the name Mendrisio first attested, in the form "Mendrici"?
+A) 926  B) 1424  C) 1516  D) 793
+
+8. Dated fountain Via alle Cantine. The dated fountain in Via alle Cantine carries the Roman numerals M.DCCC.XLII. Which year is that?
+A) 1482  B) 1842  C) 1824  D) 1942
+
+9. Mendrisio Cimitero. The 1516 peace treaty that gave the Mendrisiotto to the Swiss Confederation was signed where?
+A) Bern  B) Zurich  C) Fribourg  D) Lugano
+
+10. Drinking fountain Via della Selva. Since 1983 Mendrisio hosts an annual popular event called what?
+A) The Carnevale Ambrosiano  B) The Palio di Mendrisio  C) The Festa dell’Uva  D) The Sagra del Borgo
+
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-A, 4-C, 5-C, 6-A, 7-D, 8-B, 9-C, 10-B
+
+Sources and fun facts
+
+1. Church of Santi Cosma e Damiano: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Storia, Età antica). The tower is not identified in the source, so the link to this church is thematic
+   Fun fact: It shows that Romanised local elites lived here.
+2. San Giovanni complex: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Architetture religiose: Santa Maria delle Grazie, 1268)
+   Fun fact: Santa Maria in Borgo dates from 1518 and the Capuchin church from 1621.
+3. Casa Croci: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Architetture civili: Casa Croci, 1875)
+   Fun fact: The same architect designed Villa Argentina (1873–1874) in a historic park.
+4. Palazzo Turconi: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Palazzo Turconi, neoclassico, Luigi Fontana)
+   Fun fact: Since 1996 it has housed the Accademia di architettura.
+5. Church of San Sisinio alla Torre: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Architetture civili; Storia)
+   Fun fact: The Beroldingen held the post of Landscriba from 1645 to 1798.
+6. Mendrisio railway station: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Infrastrutture: Ferrovia Mendrisio-Varese)
+   Fun fact: The line connects the Swiss and Lombard rail networks.
+7. Church of San Martino: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Medioevo)
+   Fun fact: The name probably derives from a Lombard personal name.
+8. Dated fountain Via alle Cantine: OSM node 4316724136, inscription tag
+   Fun fact: Mendrisio’s coat of arms (a silver cross on red) derives from that of Como.
+9. Mendrisio Cimitero: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Periodo milanese: Pace di Friburgo, 1516)
+   Fun fact: The Mendrisiotto was conquered by the Confederates in 1512.
+10. Drinking fountain Via della Selva: it.wikipedia https://it.wikipedia.org/wiki/Mendrisio (Eventi)
+   Fun fact: The Historic Processions of Holy Thursday and Good Friday are also famous.
