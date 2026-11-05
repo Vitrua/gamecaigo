@@ -1,24 +1,56 @@
-Questions
+The 10 questions, 4 answers each
 
-In which year does the Renaissance façade of the cathedral date from, according to the date carved above the portal?
-A) 1078 B) 1517 C) 1529 D) 1888
-In which year did Bernardino Luini complete the great fresco of the Passion in Santa Maria degli Angioli?
-A) 1499 B) 1515 C) 1517 D) 1529
-During which years was Lugano the capital of the Helvetic Republic’s Canton of Lugano?
-A) 1798–1803 B) 1803–1814 C) 1814–1878 D) 1848–1874
-In which year is the name “Lugano” first recorded in this form?
-A) 804 B) 874 C) 1189 D) 1198
-How many consuls headed the borgo of Lugano in 1198?
-A) 2 B) 4 C) 6 D) 12
-According to swisstopo’s 2026 data, how much of Lugano’s 8,621 ha is lake surface?
-A) 235 ha B) 515 ha C) 2,050 ha D) 1,035 ha
-Which Italian exclave lies inside Lugano’s borders in the official map?
-A) Livigno B) Büsingen C) Campione d’Italia D) Samnaun
-In 1222 the borgo had to accept a podestà from which city?
-A) Como B) Milan C) Bellinzona D) Locarno
-From 1814 to 1878 Lugano served as cantonal capital in rotation with Bellinzona and which other city?
-A) Mendrisio B) Chiasso C) Biasca D) Locarno
-According to swisstopo’s 2026 data, how large is the municipality of Lugano?
-A) 70 km² B) 45 km² C) 86 km² D) 120 km²
+1. Church of San Pietro. Church of San Pietro: in which year is Paradiso first mentioned (as Calprino)?
+A) 1040  B) 1335  C) 1264  D) 1882
 
-Answer key: 1 B · 2 D · 3 A · 4 C · 5 B · 6 D · 7 C · 8 A · 9 D · 10 C
+2. Funicolare Monte San Salvatore. Funicolare Monte San Salvatore: in which year did the funicular up Monte San Salvatore open?
+A) 1882  B) 1913  C) 1966  D) 1890
+
+3. Fontana dell’Acquaiola. Fontana dell’Acquaiola: in which year was the name Paradiso first used, for a district of the village?
+A) 1835  B) 1335  C) 1929  D) 1951
+
+4. Riva Paradiso lake viewpoint. Riva Paradiso lake viewpoint: thanks to the views over Lake Lugano, Paradiso became a popular holiday resort after the opening of which railway in 1882?
+A) The Simplon Railway  B) The Bernina Railway  C) The Gotthard Railway  D) The Rigi Railway
+
+5. Parco Guidino. Parco Guidino: in the 12th century which abbey owned land in Guidino?
+A) The Abbey of S. Abbondio in Como  B) The Abbey of Einsiedeln  C) The Abbey of S. Ambrogio in Milan  D) The Abbey of St. Gall
+
+6. Parco Calprino. Parco Calprino: excavations in 1951 in Calprino found evidence of a settlement from which era?
+A) The Roman era  B) The Bronze Age  C) The Neolithic  D) The Napoleonic era
+
+7. Morchino bus stop. Morchino bus stop: the settlement of Morchino goes back to which century?
+A) The 4th century  B) The 12th century  C) The 16th century  D) The 8th century
+
+8. Giardino dell’Acquedotto. Giardino dell’Acquedotto: in which year did the construction of the highway along the border with Lugano begin to change the character of the municipality?
+A) 1890  B) 1966  C) 1929  D) 1951
+
+9. Parco Giochi Barzaghi. Parco Giochi Barzaghi: which industry entered the village in the 18th and 19th centuries?
+A) Watchmaking  B) Glassmaking  C) The silk industry  D) Paper milling
+
+10. Paradiso Stazione bus stop. Paradiso Stazione bus stop: according to swisstopo’s 2026 boundary data, about how large is Paradiso, including its lake surface?
+A) About 90 ha  B) About 218 ha  C) About 430 ha  D) About 650 ha
+
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-A, 4-C, 5-C, 6-A, 7-D, 8-B, 9-C, 10-B
+
+Sources and fun facts
+
+1. Church of San Pietro: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History); loosely tied to the pin
+   Fun fact: The church of Paradiso was originally part of the parish of Pambio.
+2. Funicolare Monte San Salvatore: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History)
+   Fun fact: Increasing lake traffic and the funicular boosted hotels and tourism in Paradiso.
+3. Fontana dell’Acquaiola: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History); loosely tied to the pin
+   Fun fact: It became the official name only in 1929, partly to avoid confusion with the hamlet of Caprino.
+4. Riva Paradiso lake viewpoint: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History)
+   Fun fact: Paradiso lies at the foot of Monte San Salvatore, on the shore of Lake Lugano.
+5. Parco Guidino: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History)
+   Fun fact: Guidino is one of the four sections of Paradiso, with Calprino, Fontana and Morchino.
+6. Parco Calprino: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History)
+   Fun fact: A small Langobard settlement stood in the same area in the 7th century.
+7. Morchino bus stop: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History)
+   Fun fact: Calprino, Fontana and Guidino are mentioned between the 12th and 14th centuries.
+8. Giardino dell’Acquedotto: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History); loosely tied to the pin
+   Fun fact: Today Paradiso is mainly a residential community with many luxury buildings.
+9. Parco Giochi Barzaghi: en.wikipedia https://en.wikipedia.org/wiki/Paradiso,_Switzerland (History); loosely tied to the pin
+   Fun fact: Before that the village economy was based on grain and vineyards.
+10. Paradiso Stazione bus stop: swissBOUNDARIES3D 2026-01, BFS 5210 (area 218.5 ha, of which about 131 ha is lake); loosely tied to the pin
+   Fun fact: The 1997 land survey counted only 0.89 km², without most of the lake.

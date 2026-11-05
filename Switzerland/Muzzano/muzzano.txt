@@ -1,24 +1,56 @@
-Questions
+The 10 questions, 4 answers each
 
-When did Muzzano become an independent parish, separating from the pieve of Agno?
-A) 1189 B) 1579 C) 1735 D) 1925
-In which year is the chapel of S. Andrea in Agnuzzo first mentioned?
-A) 819 B) 1208 C) 1579 D) 1735
-Muzzano is first mentioned in documents as “Muciano”. In which year?
-A) 1208 B) 1579 C) 819 D) 1189
-Which of these municipalities shares a border with Muzzano?
-A) Collina d’Oro B) Massagno C) Paradiso D) Magliaso
-Agnuzzo, whose chapel is in point 2, has been part of Muzzano since which year?
-A) 1895 B) 1948 C) 1962 D) 1925
-According to swisstopo’s 2026 boundary data, what is Muzzano’s total area?
-A) 85 ha B) 340 ha C) 170 ha D) 510 ha
-How many municipalities border Muzzano?
-A) 5 B) 3 C) 7 D) 9
-In which district (distretto) of Ticino is Muzzano?
-A) Mendrisio B) Lugano C) Locarno D) Bellinzona
-In swisstopo’s 2026 data, how much of Muzzano’s area is lake surface?
-A) 5 ha B) 40 ha C) 85 ha D) 15 ha
-How many inhabitants did Muzzano have in 1769?
-A) 340 B) 520 C) 122 D) 905
+1. Church of Santa Maria dell’Annunciazione. Church of Santa Maria dell’Annunciazione: the parish church probably dates to which century?
+A) The 11th century  B) The 16th century  C) The 13th century  D) The 18th century
 
-Answer key: 1 C · 2 B · 3 D · 4 A · 5 D · 6 C · 7 A · 8 B · 9 D · 10 C
+2. Via delle Coste viewpoint. Via delle Coste viewpoint: in which year is Muzzano first mentioned (as Muciano)?
+A) 819  B) 1208  C) 1579  D) 1189
+
+3. Laghetto di Muzzano. Laghetto di Muzzano: since 1945 the small lake has been part of which organisation?
+A) Pro Natura  B) WWF Switzerland  C) The Swiss Alpine Club  D) The Swiss Hunting Federation
+
+4. Chiesetta-oratorio di Sant’Andrea. Chiesetta-oratorio di Sant’Andrea: in which year is the chapel of S. Andrea in Agnuzzo first mentioned?
+A) 819  B) 1189  C) 1208  D) 1579
+
+5. Piodella, Mondino bus stop. Piodella, Mondino bus stop: in which year did Muzzano become an independent parish, leaving the Pieve of Agno?
+A) 1189  B) 1579  C) 1735  D) 1827
+
+6. Piodella, Zona Industriale bus stop. Piodella, Zona Industriale bus stop: many men from Muzzano worked abroad, especially in which trade?
+A) Plasterers (construction)  B) Chimney sweeps  C) Glassblowers  D) Cheesemakers
+
+7. Playground Via Industria. Playground Via Industria: the Scuola Serena, built in Muzzano in 1917–24, was founded by which educator?
+A) Maria Montessori  B) Johann Heinrich Pestalozzi  C) Rudolf Steiner  D) Maria Boschetti-Alberti
+
+8. Playground at Sentiero Vedeggio. Playground at Sentiero Vedeggio: in which year was Alberto Lamoni’s school built in Muzzano?
+A) 1735  B) 1827  C) 1917  D) 1945
+
+9. Ponte Ronchetti. Ponte Ronchetti (railway bridge): the local economy of Muzzano was based on agriculture, viticulture and which textile-related activity?
+A) Wool weaving  B) Linen bleaching  C) Silk farming  D) Cotton spinning
+
+10. Bench Via Orbisana. Bench Via Orbisana: in 2000, about three-quarters of Muzzano’s workforce were what?
+A) Farmers  B) Commuters  C) Cross-border workers  D) Self-employed craftsmen
+
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-A, 4-C, 5-C, 6-A, 7-D, 8-B, 9-C, 10-B
+
+Sources and fun facts
+
+1. Church of Santa Maria dell’Annunciazione: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History)
+   Fun fact: Muzzano became an independent parish in 1735.
+2. Via delle Coste viewpoint: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: Sorengo, next door, is first mentioned in the same year.
+3. Laghetto di Muzzano: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History)
+   Fun fact: The lake is a protected habitat.
+4. Chiesetta-oratorio di Sant’Andrea: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History)
+   Fun fact: Agnuzzo was the centre of a large manor farm, given in 819 to the clergy of Como.
+5. Piodella, Mondino bus stop: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: In 1579 the Abbey’s property and rights were leased to the municipality and private individuals.
+6. Piodella, Zona Industriale bus stop: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: The Mulini Tues Biogno industrial zone developed on the left bank of the Vedeggio in the late 20th century.
+7. Playground Via Industria: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: It was one of two important pedagogical research schools built in Muzzano.
+8. Playground at Sentiero Vedeggio: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: Lamoni’s school and the Scuola Serena were Muzzano’s two pedagogical research schools.
+9. Ponte Ronchetti: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: Hilly Muzzano is dominated by residential buildings today.
+10. Bench Via Orbisana: en.wikipedia https://en.wikipedia.org/wiki/Muzzano,_Switzerland (History); loosely tied to the pin
+   Fun fact: The village lies above the small Lago di Muzzano.
