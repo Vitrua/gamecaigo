@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,"START - Solagna park, Falzè",Falzè di Trevignano (TV),Park,45.7390930,12.0935080,area centroid (OSM way),"https://www.google.com/maps?q=45.7390930,12.0935080",yes,"OSM way 226243692; leisure=park, name tag Solagna"
+1,Chiesa di San Teonisto e Compagni Martiri,Trevignano (TV),Parish church,45.7382400,12.0671360,exact point (OSM node),"https://www.google.com/maps?q=45.7382400,12.0671360",yes,"OSM node 13483280610; Wikidata Q64781412; Piazza Monico fountain node 11866548170 within 50 m, merged"
+2,Cemetery of Trevignano,Trevignano (TV),Cemetery,45.7402630,12.0765660,exact area centroid,"https://www.google.com/maps?q=45.7402630,12.0765660",yes,OSM way 152875924; Wikidata Q109392375
+3,"Chiesa di San Girolamo, Falzè",Falzè di Trevignano (TV),Church,45.7415760,12.0850340,exact building,"https://www.google.com/maps?q=45.7415760,12.0850340",yes,OSM way 148083019; Wikidata Q120487534
+4,Bus stop Falzè via 2 giugno,"Via 2 Giugno, Falzè di Trevignano (TV)",Bus stop,45.7389400,12.0963910,exact point (OSM node),"https://www.google.com/maps?q=45.7389400,12.0963910",yes,OSM node 10935396424; highway=bus_stop
+5,Bus stop Casa Cervi,"Casa Cervi, Trevignano (TV)",Bus stop,45.7332170,12.1041370,exact point (OSM node),"https://www.google.com/maps?q=45.7332170,12.1041370",yes,OSM node 10935396547; highway=bus_stop
+6,Chiesa di Signoressa,Signoressa di Trevignano (TV),Parish church,45.7469420,12.1043180,exact building,"https://www.google.com/maps?q=45.7469420,12.1043180",yes,OSM way 148082338; Wikidata Q120487536; cemetery way 148082339 within 200 m
+7,"Casa degli Alpini, Signoressa",Signoressa di Trevignano (TV),Monument,45.7464920,12.1077680,exact point (OSM node),"https://www.google.com/maps?q=45.7464920,12.1077680",yes,OSM node 5272305340; historic=monument
+8,Chiesetta di Sant’Elena dell’aceto,"Sant’Elena, Trevignano (TV)",Small church,45.7384940,12.1246340,exact building,"https://www.google.com/maps?q=45.7384940,12.1246340",yes,"OSM way 148373607; Wikidata Q120487538; hamlet pin, used as filler"
+9,Chiesa di Musano,Musano di Trevignano (TV),Parish church,45.7246790,12.1177990,exact building,"https://www.google.com/maps?q=45.7246790,12.1177990",yes,OSM way 148082337; Wikidata Q120487535
+10,Parco Augusto Daolio,Musano di Trevignano (TV),Park,45.7290660,12.1141550,area centroid (OSM way),"https://www.google.com/maps?q=45.7290660,12.1141550",yes,OSM way 226241535; leisure=park

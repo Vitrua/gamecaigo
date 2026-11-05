@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Park at Cendon,"Cendon, Silea (TV)",Park,45.6354500,12.3184480,area centroid (OSM way),"https://www.google.com/maps?q=45.6354500,12.3184480",yes,"OSM way 232926009; leisure=park, no name tag"
+1,Chiesa di San Michele Arcangelo,Silea (TV),Parish church (historic),45.6527920,12.2984550,exact building,"https://www.google.com/maps?q=45.6527920,12.2984550",yes,OSM way 178819008; Wikidata Q78568432
+2,Monumento ai caduti,Silea (TV),War memorial,45.6535510,12.2957710,exact point (OSM node),"https://www.google.com/maps?q=45.6535510,12.2957710",yes,OSM node 4343617070; historic=memorial
+3,Chiesetta della Beata Vergine della Salute,Silea (TV),Chapel (historic),45.6534780,12.3024380,exact building,"https://www.google.com/maps?q=45.6534780,12.3024380",yes,"OSM way 178823353; amenity=place_of_worship ""Madonna della Salute"""
+4,Parco dei Moreri,Silea (TV),Park,45.6559720,12.2920770,area centroid (OSM way),"https://www.google.com/maps?q=45.6559720,12.2920770",yes,OSM way 232926011; leisure=park
+5,Oratorio della Beata Vergine di Lourdes (Lanzago),"Lanzago, Silea (TV)",Chapel,45.6630910,12.2889310,exact building,"https://www.google.com/maps?q=45.6630910,12.2889310",yes,OSM way 138759730; amenity=place_of_worship
+6,Chiesa dei Santi Vittore e Corona (Cendon),"Via Chiesa, Cendon, Silea (TV)",Parish church (historic),45.6346800,12.3194810,exact building,"https://www.google.com/maps?q=45.6346800,12.3194810",yes,OSM way 184908532; Wikidata Q120487497
+7,Drinking fountain Via Cendon,"Via Cendon, Cendon, Silea (TV)",Drinking fountain (secondary point),45.6383920,12.3195470,exact point (OSM node),"https://www.google.com/maps?q=45.6383920,12.3195470",yes,OSM node 2389530091; amenity=drinking_water
+8,Chiesa di Sant’Elena Imperatrice,"Sant’Elena di Silea, Silea (TV)",Parish church (historic),45.6207020,12.3352950,exact building,"https://www.google.com/maps?q=45.6207020,12.3352950",yes,OSM way 193881873; Wikidata Q120487498
+9,Park at Sant’Elena di Silea,"Sant’Elena di Silea, Silea (TV)",Park,45.6287190,12.3366910,area centroid (OSM way),"https://www.google.com/maps?q=45.6287190,12.3366910",yes,OSM way 230336614; leisure=park; playground node 2388516170 within 10 m
+10,Capitello di Santa Maria del Cammino,"Alzaia del Sile, Vignale Rivalta, Silea (TV)",Wayside shrine (historic),45.6182600,12.3401810,exact point (OSM node),"https://www.google.com/maps?q=45.6182600,12.3401810",yes,OSM node 8860886258; amenity=place_of_worship; on the Sile towpath

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Park in Morgano,Morgano (TV),Park,45.6467170,12.1036580,area centroid (OSM way),"https://www.google.com/maps?q=45.6467170,12.1036580",yes,"OSM way 228420280; leisure=park, no name tag"
+1,Chiesa di Morgano (San Martino),Morgano (TV),Parish church,45.6482800,12.1023290,exact building,"https://www.google.com/maps?q=45.6482800,12.1023290",yes,OSM way 148149162; Wikidata Q60902484
+2,Place of worship on Via Molin Cappello,"Via Molin Cappello, Morgano (TV)",Small church or chapel (name not tagged),45.6471640,12.0994450,exact building,"https://www.google.com/maps?q=45.6471640,12.0994450",yes,"OSM way 148152025; amenity=place_of_worship, no name tag"
+3,Cemetery of Morgano,Morgano (TV),Cemetery with bus stop,45.6558310,12.1101820,exact area centroid,"https://www.google.com/maps?q=45.6558310,12.1101820",yes,OSM way 148147458; Wikidata Q109382258; bus stop node 12967290715 within 100 m
+4,Bus stop Settimo,"Settimo, Morgano (TV)",Bus stop,45.6428570,12.1211690,exact point (OSM node),"https://www.google.com/maps?q=45.6428570,12.1211690",yes,OSM node 205638532; highway=bus_stop
+5,Ongarie park,"Ongarie, Morgano (TV)",Park (no name tag),45.6387790,12.1006710,area centroid (OSM way),"https://www.google.com/maps?q=45.6387790,12.1006710",yes,OSM way 228420267; leisure=park
+6,Bus stop Via Campagna,"Via Campagna, Morgano (TV)",Bus stop,45.6530900,12.1227850,exact point (OSM node),"https://www.google.com/maps?q=45.6530900,12.1227850",yes,OSM node 12967288102; highway=bus_stop
+7,"Chiesa di Sant’Antonio, Badoere","Badoere, Morgano (TV)",Church,45.6347940,12.0834650,exact building,"https://www.google.com/maps?q=45.6347940,12.0834650",yes,OSM way 148154448; amenity=place_of_worship
+8,Chiesa di Sant’Antonio di Padova,"Badoere, Morgano (TV)",Church,45.6332300,12.0828050,exact building,"https://www.google.com/maps?q=45.6332300,12.0828050",yes,OSM way 148154415; Wikidata Q120487299
+9,"Via Statue, Badoere","Via Statue, Badoere, Morgano (TV)",Street,45.6285880,12.0818070,street centroid (OSM way),"https://www.google.com/maps?q=45.6285880,12.0818070",yes,OSM way 128932560; highway=unclassified
+10,Cemetery of Badoere,"Badoere, Morgano (TV)",Cemetery,45.6281330,12.0785460,exact area centroid,"https://www.google.com/maps?q=45.6281330,12.0785460",yes,OSM way 222213250; Wikidata Q109382265
