@@ -1,0 +1,23 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Nguyễn Du lake,"Hồ Nguyễn Du, Tam Kỳ",Lake (start option 1),15.5717063,108.4806307,lake centre (Nominatim),"https://www.google.com/maps?q=15.5717063,108.4806307",yes,OSM way 479723799; natural=water
+START,START - Tam Kỳ railway station,Tam Kỳ,Railway station (start option 2),15.5573760,108.4839090,exact point (OSM node),"https://www.google.com/maps?q=15.5573760,108.4839090",yes,OSM node 4195642994; railway=station
+1,Tam Kỳ market (Chợ Tam Kỳ),"Bạch Đằng, Tam Kỳ",Market,15.5671379,108.4947181,exact building (Nominatim),"https://www.google.com/maps?q=15.5671379,108.4947181",yes,OSM way 532520411; amenity=marketplace
+2,Park in western Tam Kỳ,Tam Kỳ,Park (no name tag),15.5661094,108.4697503,area centroid (OSM way),"https://www.google.com/maps?q=15.5661094,108.4697503",yes,OSM way 559680073; leisure=park
+3,Park near Hùng Vương street,Tam Kỳ,Park (no name tag),15.5639260,108.4797870,exact point (OSM node),"https://www.google.com/maps?q=15.5639260,108.4797870",yes,OSM node 5397771084; leisure=park
+4,Quảng Nam General Hospital,"Nguyễn Chí Thanh, Tam Kỳ",Hospital (seen from outside),15.5718415,108.4785448,exact building (Nominatim),"https://www.google.com/maps?q=15.5718415,108.4785448",yes,OSM way 531958120; amenity=hospital
+5,Lương Như Bích school,Tam Kỳ,School (seen from the street),15.5688120,108.4850410,exact point (OSM node),"https://www.google.com/maps?q=15.5688120,108.4850410",yes,OSM node 5398808547; amenity=school
+6,Da Nang Medical College,Tam Kỳ,College (seen from the street),15.5718410,108.4769310,exact building,"https://www.google.com/maps?q=15.5718410,108.4769310",yes,OSM way 531958121; amenity=school
+7,Trần Quốc Toản primary school,Tam Kỳ,School (seen from the street),15.5644210,108.4921820,exact building,"https://www.google.com/maps?q=15.5644210,108.4921820",yes,OSM way 532520421; amenity=school
+8,Lê Hồng Phong secondary school,Tam Kỳ,School (seen from the street),15.5625920,108.4769710,exact building,"https://www.google.com/maps?q=15.5625920,108.4769710",yes,OSM way 532520430; amenity=school
+9,Lê Quý Đôn high school,Tam Kỳ,School (seen from the street),15.5636170,108.4905140,exact building,"https://www.google.com/maps?q=15.5636170,108.4905140",yes,OSM way 532520420; amenity=school
+10,Trần Cao Vân high school,Tam Kỳ,School (seen from the street),15.5677220,108.4798320,exact building,"https://www.google.com/maps?q=15.5677220,108.4798320",yes,OSM way 532520444; amenity=school
+11,Bus stop 101 Hùng Vương,Tam Kỳ,Bus stop (secondary point),15.5708310,108.4741300,exact point (OSM node),"https://www.google.com/maps?q=15.5708310,108.4741300",yes,OSM node 13806164336; highway=bus_stop
+12,Bus stop 141 Hùng Vương,Tam Kỳ,Bus stop (secondary point),15.5686010,108.4769510,exact point (OSM node),"https://www.google.com/maps?q=15.5686010,108.4769510",yes,OSM node 13805656756; highway=bus_stop
+13,Bus stop 170 Trần Cao Vân,Tam Kỳ,Bus stop (secondary point),15.5600200,108.4890360,exact point (OSM node),"https://www.google.com/maps?q=15.5600200,108.4890360",yes,OSM node 13805656748; highway=bus_stop
+14,Bus stop 236 Phan Châu Trinh,Tam Kỳ,Bus stop (secondary point),15.5693320,108.4880220,exact point (OSM node),"https://www.google.com/maps?q=15.5693320,108.4880220",yes,OSM node 11898042387; highway=bus_stop
+15,Bus stop 26 Phan Châu Trinh,Tam Kỳ,Bus stop (secondary point),15.5727420,108.4833910,exact point (OSM node),"https://www.google.com/maps?q=15.5727420,108.4833910",yes,OSM node 11898042386; highway=bus_stop
+16,Bus stop 275 Phan Châu Trinh,Tam Kỳ,Bus stop (secondary point),15.5679280,108.4904040,exact point (OSM node),"https://www.google.com/maps?q=15.5679280,108.4904040",yes,OSM node 11898042402; highway=bus_stop
+17,Bus stop 324 Trần Cao Vân,Tam Kỳ,Bus stop (secondary point),15.5553200,108.4860010,exact point (OSM node),"https://www.google.com/maps?q=15.5553200,108.4860010",yes,OSM node 13805656749; highway=bus_stop
+18,Bus stop 341 Phan Châu Trinh,Tam Kỳ,Bus stop (secondary point),15.5667900,108.4922660,exact point (OSM node),"https://www.google.com/maps?q=15.5667900,108.4922660",yes,OSM node 11898042401; highway=bus_stop
+19,Bus stop 467 Phan Châu Trinh,Tam Kỳ,Bus stop (secondary point),15.5650810,108.4947380,exact point (OSM node),"https://www.google.com/maps?q=15.5650810,108.4947380",yes,OSM node 11898042400; highway=bus_stop
+20,Bus stop 531 Phan Châu Trinh,Tam Kỳ,Bus stop (secondary point),15.5637280,108.4966830,exact point (OSM node),"https://www.google.com/maps?q=15.5637280,108.4966830",yes,OSM node 11898042399; highway=bus_stop

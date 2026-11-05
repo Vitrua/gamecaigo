@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Hoa Vang administrative centre bus stop,"Đường Quảng Xương, Hòa Vang",Bus stop at the administrative centre,15.9876080,108.1408860,exact point (OSM node),"https://www.google.com/maps?q=15.9876080,108.1408860",yes,OSM node 11903086044; highway=bus_stop
+1,Túy Loan communal house (Đình Túy Loan),"Túy Loan, Hòa Vang",Communal house,15.9975680,108.1364510,exact building,"https://www.google.com/maps?q=15.9975680,108.1364510",yes,OSM way 1547483081; amenity=place_of_worship; bus stop node 11903086047 within 220 m
+2,Park in Túy Loan,Hòa Vang,Park (no name tag),15.9915010,108.1388800,area centroid (OSM way),"https://www.google.com/maps?q=15.9915010,108.1388800",yes,OSM way 597507398; leisure=park
+3,Túy Loan market (bus stop),"Chợ Túy Loan, Hòa Vang","Market area, bus stop",15.9907490,108.1404830,exact point (OSM node),"https://www.google.com/maps?q=15.9907490,108.1404830",yes,"OSM node 11903086031; highway=bus_stop ""Lô 115 Chợ Túy Loan"""
+4,Bồ Bản communal house (Đình Bồ Bản),"Bồ Bản, Hòa Vang",Communal house,15.9879120,108.1518450,exact building,"https://www.google.com/maps?q=15.9879120,108.1518450",yes,OSM way 597505233; amenity=place_of_worship
+5,Ông Ích Khiêm high school,Hòa Vang,School (seen from the street),15.9839630,108.1349570,exact building,"https://www.google.com/maps?q=15.9839630,108.1349570",yes,OSM way 1091537247; amenity=school
+6,An Phước primary school,Hòa Vang,School (seen from the street),15.9833700,108.1390190,exact building,"https://www.google.com/maps?q=15.9833700,108.1390190",yes,OSM way 1091537239; amenity=school
+7,Bus stop near the CT01 sign,Hòa Vang,Bus stop (secondary point),15.9819450,108.1386650,exact point (OSM node),"https://www.google.com/maps?q=15.9819450,108.1386650",yes,OSM node 11903086043; highway=bus_stop
+8,Bus stop at the CS84 pole,Hòa Vang,Bus stop (secondary point),15.9756200,108.1395340,exact point (OSM node),"https://www.google.com/maps?q=15.9756200,108.1395340",yes,OSM node 11903086042; highway=bus_stop
+9,Cemetery in Hòa Vang,Hòa Vang,Cemetery (seen from outside),15.9764540,108.1306010,exact area centroid,"https://www.google.com/maps?q=15.9764540,108.1306010",yes,OSM way 1283395607; landuse=cemetery
+10,Bus stop at Thiên Thanh Trường shop,"Túy Loan, Hòa Vang",Bus stop (secondary point),15.9957890,108.1367560,exact point (OSM node),"https://www.google.com/maps?q=15.9957890,108.1367560",yes,OSM node 11903086047; highway=bus_stop

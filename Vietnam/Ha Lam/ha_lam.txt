@@ -1,0 +1,56 @@
+The 10 questions, 4 answers each
+
+1. Park in Hà Lam. Park in Hà Lam: Hà Lam, the old seat of Thăng Bình district, is today part of which commune?
+A) Duy Xuyên  B) Thăng Bình  C) Quế Sơn  D) Núi Thành
+
+2. Hà Lam post office. Hà Lam post office: Nguyễn Hoàng began the rule of the Nguyễn lords in the south in which year?
+A) 1428  B) 1802  C) 1945  D) 1558
+
+3. Hotel Tony. Hotel Tony (exterior view): roughly how long is Highway 1, which crosses Hà Lam?
+A) About 2,300 km  B) About 230 km  C) About 23,000 km  D) About 800 km
+
+4. Lê Quý Đôn secondary school. Lê Quý Đôn secondary school: in which century did the scholar Lê Quý Đôn live?
+A) The 13th  B) The 15th  C) The 18th  D) The 20th
+
+5. Thái Phiên high school. Thái Phiên high school: Thái Phiên and Trần Cao Vân led the 1916 uprising for which emperor?
+A) Gia Long  B) Tự Đức  C) Duy Tân  D) Bảo Đại
+
+6. Kim Đồng primary school. Kim Đồng primary school: Kim Đồng was a young messenger for which movement?
+A) The Việt Minh  B) The Cần Vương  C) The Đông Du  D) The Duy Tân
+
+7. Lương Thế Vinh primary school. Lương Thế Vinh primary school: the 15th-century scholar Lương Thế Vinh was famous mainly for which subject?
+A) Medicine  B) Navigation  C) Astronomy  D) Mathematics
+
+8. Tiểu La high school. Tiểu La high school: before 2025 Thăng Bình district belonged to which province?
+A) Quảng Ngãi  B) Quảng Nam  C) Quảng Trị  D) Khánh Hòa
+
+9. Bus stop at Thăng Hoa hospital. Bus stop at Thăng Hoa hospital: with which city did Quảng Nam merge in 2025?
+A) Huế  B) Hanoi  C) Da Nang  D) Quảng Ngãi city
+
+10. Bus stop at Quán Hương village gate. Bus stop at Quán Hương village gate: whom does a Vietnamese village communal house (đình) traditionally honour?
+A) The emperor’s ancestors  B) The village’s tutelary spirit  C) A Buddhist abbot  D) The nearest mountain only
+
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-A, 4-C, 5-C, 6-A, 7-D, 8-B, 9-C, 10-B
+
+Sources and fun facts
+
+1. Park in Hà Lam: OSM relation 19337498 “Xã Thăng Bình” and place node 369493369
+   Fun fact: The town centre is a mapped OSM place node.
+2. Hà Lam post office: General knowledge (street namesake); loosely tied to the pin
+   Fun fact: His family later founded the Nguyễn dynasty.
+3. Hotel Tony: General knowledge (Highway 1); loosely tied to the pin
+   Fun fact: It runs from the Chinese border to the Cà Mau peninsula.
+4. Lê Quý Đôn secondary school: General knowledge (school namesake); loosely tied to the pin
+   Fun fact: He lived from 1726 to 1784.
+5. Thái Phiên high school: General knowledge (school namesake); loosely tied to the pin
+   Fun fact: The French crushed the uprising.
+6. Kim Đồng primary school: General knowledge (school namesake); loosely tied to the pin
+   Fun fact: He was killed in 1943.
+7. Lương Thế Vinh primary school: General knowledge (school namesake); loosely tied to the pin
+   Fun fact: He was nicknamed “Trạng Lường”.
+8. Tiểu La high school: OSM relation 19337498; loosely tied to the pin
+   Fun fact: Quảng Nam merged with Da Nang in 2025.
+9. Bus stop at Thăng Hoa hospital: en.wikipedia https://en.wikipedia.org/wiki/Tam_Kỳ (History); loosely tied to the pin
+   Fun fact: The merged city is a centrally governed municipality.
+10. Bus stop at Quán Hương village gate: General knowledge (Vietnamese village culture); loosely tied to the pin
+   Fun fact: Village gates (cổng làng) mark the community’s boundary.

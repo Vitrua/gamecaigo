@@ -1,0 +1,56 @@
+The 10 questions, 4 answers each
+
+1. P’Rao market. P’Rao market: which ethnic group is the main minority of the Đông Giang highlands?
+A) The Chăm  B) The Cơ Tu  C) The Khmer  D) The Tày
+
+2. Đông Giang stadium. Đông Giang stadium: what is the traditional Cơ Tu communal house called?
+A) Đình  B) Nhà rông  C) Tháp  D) Gươl
+
+3. A Vương 2 bridge. A Vương 2 bridge: Highway 14 is the central section of which famous route?
+A) The Hồ Chí Minh road  B) The Mandarin Road  C) Highway 1  D) The Coastal Road
+
+4. P’Rao park. P’Rao park: before 2025 Đông Giang district belonged to which province?
+A) Kon Tum  B) Quảng Trị  C) Quảng Nam  D) Gia Lai
+
+5. P’Rao town hall. P’Rao town hall (former): what is Đông Giang officially now?
+A) A province  B) A district of Hue  C) A commune (xã) of Da Nang  D) A national park
+
+6. A Vương river viewpoint. A Vương river viewpoint: the Cơ Tu language belongs to which language family?
+A) Austroasiatic  B) Austronesian  C) Sino-Tibetan  D) Tai–Kadai
+
+7. Mountain. Mountain and valley viewpoint: in which direction from Da Nang’s coast does Đông Giang lie?
+A) East  B) South-east  C) North-east  D) West
+
+8. Đông Giang ethnic boarding school. Đông Giang ethnic boarding school: how many ethnic groups does Vietnam officially recognise?
+A) 24  B) 54  C) 64  D) 104
+
+9. Mẹ Thứ secondary school. Mẹ Thứ secondary school: the title “Vietnamese Heroic Mother” honours mothers who did what?
+A) Founded schools  B) Led armies  C) Lost children in the wars  D) Wrote poetry
+
+10. Quang Trung high school. Quang Trung high school: in 1789 Emperor Quang Trung defeated invaders from which country?
+A) France  B) China (Qing)  C) Siam  D) Japan
+
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-A, 4-C, 5-C, 6-A, 7-D, 8-B, 9-C, 10-B
+
+Sources and fun facts
+
+1. P’Rao market: General knowledge (Đông Giang); loosely tied to the pin
+   Fun fact: Cơ Tu villages are known for woodcarving and weaving.
+2. Đông Giang stadium: General knowledge (Cơ Tu culture); loosely tied to the pin
+   Fun fact: The gươl is a tall stilted hall for ceremonies.
+3. A Vương 2 bridge: General knowledge (Highway 14); loosely tied to the pin
+   Fun fact: It runs through the Annamite mountains.
+4. P’Rao park: OSM relation 19337542 “Xã Đông Giang”; loosely tied to the pin
+   Fun fact: It merged with Da Nang in 2025.
+5. P’Rao town hall: OSM relation 19337542 “Xã Đông Giang”
+   Fun fact: District level was abolished in 2025.
+6. A Vương river viewpoint: General knowledge (Cơ Tu language); loosely tied to the pin
+   Fun fact: Vietnamese belongs to the same family.
+7. Mountain: General knowledge (geography); loosely tied to the pin
+   Fun fact: It lies in the Trường Sơn mountains.
+8. Đông Giang ethnic boarding school: General knowledge (Vietnam’s ethnic groups); loosely tied to the pin
+   Fun fact: The Kinh are the largest group.
+9. Mẹ Thứ secondary school: General knowledge (Mẹ Thứ, school namesake); loosely tied to the pin
+   Fun fact: Mẹ Thứ was a mother from Quảng Nam.
+10. Quang Trung high school: General knowledge (school namesake); loosely tied to the pin
+   Fun fact: His victory at Ngọc Hồi–Đống Đa is celebrated each Tet.

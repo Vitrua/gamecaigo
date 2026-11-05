@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - P’Rao primary school,"P’Rao, Đông Giang",School (start),15.9211690,107.6449360,exact building,"https://www.google.com/maps?q=15.9211690,107.6449360",yes,OSM way 624217675; amenity=school
+1,P’Rao market,"Nguyễn Thị Minh Khai, P’Rao",Market,15.9204832,107.6499900,exact building (Nominatim),"https://www.google.com/maps?q=15.9204832,107.6499900",yes,OSM way 624211479; amenity=marketplace
+2,Đông Giang stadium,"Nguyễn Thị Minh Khai, P’Rao",Stadium,15.9245765,107.6480325,exact area (Nominatim),"https://www.google.com/maps?q=15.9245765,107.6480325",yes,OSM way 624211528; leisure=stadium
+3,A Vương 2 bridge,"Quốc lộ 14, P’Rao",Road bridge,15.9278720,107.6410395,"exact point (OSM way, Nominatim)","https://www.google.com/maps?q=15.9278720,107.6410395",yes,OSM way 624211578; highway=trunk
+4,P’Rao park,P’Rao,Park,15.9192030,107.6528660,area centroid (OSM way),"https://www.google.com/maps?q=15.9192030,107.6528660",yes,"OSM way 624211476; leisure=park, name tag Công viên P’Rao"
+5,P’Rao town hall (former),"Quốc lộ 14G, P’Rao",Local government office (seen from outside),15.9209745,107.6520707,exact building (Nominatim),"https://www.google.com/maps?q=15.9209745,107.6520707",yes,OSM way 624217667; office=government
+6,A Vương river viewpoint,P’Rao,Viewpoint,15.9102170,107.6376680,exact point (OSM node),"https://www.google.com/maps?q=15.9102170,107.6376680",yes,OSM node 8493370317; tourism=viewpoint
+7,Mountain and valley viewpoint,P’Rao,Viewpoint,15.9164110,107.6448150,exact point (OSM node),"https://www.google.com/maps?q=15.9164110,107.6448150",yes,"OSM node 8213632717; tourism=viewpoint, name tag Graveyard and Mountain Viewpoint"
+8,Đông Giang ethnic boarding school,P’Rao,School (seen from the street),15.9183740,107.6466670,exact building,"https://www.google.com/maps?q=15.9183740,107.6466670",yes,OSM way 624211482; amenity=school
+9,Mẹ Thứ secondary school,P’Rao,School (seen from the street),15.9229860,107.6459770,exact building,"https://www.google.com/maps?q=15.9229860,107.6459770",yes,OSM way 624211525; amenity=school
+10,Quang Trung high school,P’Rao,School (seen from the street),15.9149920,107.6380360,exact building,"https://www.google.com/maps?q=15.9149920,107.6380360",yes,OSM way 624211492; amenity=school

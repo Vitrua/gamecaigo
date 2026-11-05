@@ -1,0 +1,56 @@
+The 10 questions, 4 answers each
+
+1. Túy Loan communal house. Túy Loan communal house: the capital of the former Hòa Vang district lay in which commune?
+A) Hòa Tiến  B) Hòa Phong  C) Hòa Sơn  D) Hòa Liên
+
+2. Park in Túy Loan. Park in Túy Loan: roughly how large was the former Hòa Vang district?
+A) 70 km²  B) 7,080 km²  C) 2,000 km²  D) 708 km²
+
+3. Túy Loan market. Túy Loan market: into how many rural communes was the former district divided?
+A) 11  B) 3  C) 7  D) 21
+
+4. Bồ Bản communal house. Bồ Bản communal house: which province bordered Hòa Vang to the west and south?
+A) Quảng Ngãi  B) Kon Tum  C) Quảng Nam  D) Gia Lai
+
+5. Ông Ích Khiêm high school. Ông Ích Khiêm high school: which colonial power founded the Bà Nà Hills hill station in Hòa Vang?
+A) Britain  B) Portugal  C) France  D) The Netherlands
+
+6. An Phước primary school. An Phước primary school: Hòa Vang bordered which province to the north and northwest?
+A) Thừa Thiên-Huế  B) Quảng Trị  C) Nghệ An  D) Khánh Hòa
+
+7. Bus stop near the CT01 sign. Bus stop near the CT01 sign: about how many people lived in the district in 2003?
+A) About 7,000  B) About 1,070,000  C) About 17,000  D) About 107,000
+
+8. Bus stop at the CS84 pole. Bus stop at the CS84 pole: after the 2025 reform, what is Hòa Vang officially?
+A) A district of Hue  B) A commune (xã) of Da Nang  C) A ward of Hanoi  D) A province
+
+9. Cemetery in Hòa Vang. Cemetery in Hòa Vang: in 2025 Da Nang merged with which province?
+A) Quảng Trị  B) Bình Định  C) Quảng Nam  D) Thanh Hóa
+
+10. Bus stop at Thiên Thanh Trường shop. Bus stop at Thiên Thanh Trường shop: Hòa Vang bordered which two Da Nang districts to the east?
+A) Hải Châu and Sơn Trà  B) Liên Chiểu and Cẩm Lệ  C) Thanh Khê and Ngũ Hành Sơn  D) Hội An and Điện Bàn
+
+Answer key (don’t scroll further until you’ve played): 1-B, 2-D, 3-A, 4-C, 5-C, 6-A, 7-D, 8-B, 9-C, 10-B
+
+Sources and fun facts
+
+1. Túy Loan communal house: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (Administration)
+   Fun fact: The district had 11 rural communes.
+2. Park in Túy Loan: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (Administration); loosely tied to the pin
+   Fun fact: It was by far the largest district of Da Nang.
+3. Túy Loan market: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (Administration); loosely tied to the pin
+   Fun fact: Hòa Phong, Hòa Phú and Hòa Ninh were among them.
+4. Bồ Bản communal house: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (introduction); loosely tied to the pin
+   Fun fact: Da Nang and Quảng Nam merged in 2025.
+5. Ông Ích Khiêm high school: General knowledge (Bà Nà Hills); loosely tied to the pin
+   Fun fact: It was a cool retreat from the lowland heat.
+6. An Phước primary school: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (introduction); loosely tied to the pin
+   Fun fact: That area is now the city of Huế.
+7. Bus stop near the CT01 sign: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (Administration); loosely tied to the pin
+   Fun fact: The number includes only rural communes.
+8. Bus stop at the CS84 pole: OSM relation 15848504 “Xã Hòa Vang”; loosely tied to the pin
+   Fun fact: District level was abolished nationwide.
+9. Cemetery in Hòa Vang: en.wikipedia https://en.wikipedia.org/wiki/Tam_Kỳ (History); loosely tied to the pin
+   Fun fact: Tam Kỳ, once Quảng Nam’s capital, became a ward.
+10. Bus stop at Thiên Thanh Trường shop: en.wikipedia https://en.wikipedia.org/wiki/Hòa_Vang_district (introduction); loosely tied to the pin
+   Fun fact: Those districts were also dissolved in 2025.

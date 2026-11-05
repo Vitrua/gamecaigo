@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Lang Co railway station,"Trịnh Tố Tâm, Lăng Cô",Railway station,16.2220260,108.0813160,exact point (OSM node),"https://www.google.com/maps?q=16.2220260,108.0813160",yes,OSM node 14041478565; railway=station
+1,Lang Co bridge (Cầu Lăng Cô),"Quốc lộ 1, Lăng Cô",Road bridge over the lagoon channel,16.2251872,108.0829335,"exact point (OSM way, Nominatim)","https://www.google.com/maps?q=16.2251872,108.0829335",yes,OSM way 89366121; highway=trunk
+2,Lang Co communal house and pagoda,Lăng Cô,Communal house (đình) and pagoda,16.2261540,108.0887550,exact point (OSM node),"https://www.google.com/maps?q=16.2261540,108.0887550",yes,"OSM node 1335374897; amenity=place_of_worship; pagoda node 1335374779 within 20 m, merged"
+3,Lang Co parish church,"An Cư Đông, Lăng Cô",Church,16.2277710,108.0881280,exact building,"https://www.google.com/maps?q=16.2277710,108.0881280",yes,OSM way 130226169; amenity=place_of_worship
+4,Miếu Ngài Ngư (fishermen’s shrine),Lăng Cô,Shrine,16.2275360,108.0929460,exact point (OSM node),"https://www.google.com/maps?q=16.2275360,108.0929460",yes,OSM node 1335374818; amenity=place_of_worship
+5,Lang Co Pagoda,Lăng Cô,Pagoda,16.2302530,108.0864210,exact point (OSM node),"https://www.google.com/maps?q=16.2302530,108.0864210",yes,OSM node 1435168898; amenity=place_of_worship
+6,Am Nam Ngư shrine,"An Cư Đông, Lăng Cô",Small shrine,16.2317840,108.0864700,exact point (OSM node),"https://www.google.com/maps?q=16.2317840,108.0864700",yes,OSM node 1335374809; amenity=place_of_worship
+7,Sáo Cát parish church,"An Cư Đông, Lăng Cô",Church,16.2329320,108.0854530,exact building,"https://www.google.com/maps?q=16.2329320,108.0854530",yes,OSM way 130044320; amenity=place_of_worship
+8,Lang Co Post Office,"Đường Lạc Long Quân, Lăng Cô",Post office,16.2364307,108.0816339,"exact point (OSM node, Nominatim)","https://www.google.com/maps?q=16.2364307,108.0816339",yes,OSM node 1433492138; amenity=post_office
+9,Lagoon viewpoint (bamboo boats),Lăng Cô,Viewpoint over the Lập An lagoon,16.2387700,108.0777740,exact point (OSM node),"https://www.google.com/maps?q=16.2387700,108.0777740",yes,OSM node 5594253423; tourism=viewpoint
+10,Lang Co beach (free access),Lăng Cô,Public beach,16.2404300,108.0814040,exact point (OSM node),"https://www.google.com/maps?q=16.2404300,108.0814040",yes,OSM node 5510701022; tourism=attraction

@@ -1,0 +1,10 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Youth Park bus stop,"Trần Nhân Tông, Điện Bàn",Bus stop (start),15.8918620,108.2477120,exact point (OSM node),"https://www.google.com/maps?q=15.8918620,108.2477120",yes,"OSM node 11898042436; highway=bus_stop ""Công viện Thanh Niên"""
+1,Điện Bàn Museum,"Hồ Xuân Hương, Điện Bàn",Museum (seen from the street),15.8874211,108.2550614,exact building (Nominatim),"https://www.google.com/maps?q=15.8874211,108.2550614",yes,OSM way 584941415; tourism=museum
+2,Vĩnh Điện bridge,Điện Bàn,Road bridge over the Vĩnh Điện river,15.8940702,108.2462618,"exact point (OSM way, Nominatim)","https://www.google.com/maps?q=15.8940702,108.2462618",yes,OSM way 52649675; highway=primary
+3,Giáp Ba bridge,"Trần Nhân Tông, Điện Bàn",Road bridge,15.8972955,108.2449786,"exact point (OSM way, Nominatim)","https://www.google.com/maps?q=15.8972955,108.2449786",yes,OSM way 715436579; highway=primary
+4,Park in Điện Bàn,Điện Bàn,Park (no name tag),15.8855870,108.2521400,area centroid (OSM way),"https://www.google.com/maps?q=15.8855870,108.2521400",yes,OSM way 1496346848; leisure=park
+5,Quảng Nam regional hospital,"24 Lê Hữu Trác, Điện Bàn",Hospital (seen from outside),15.8910537,108.2461796,exact building (Nominatim),"https://www.google.com/maps?q=15.8910537,108.2461796",yes,OSM way 1182415212; amenity=hospital
+6,Nguyễn Duy Hiệu high school,Điện Bàn,School (seen from the street),15.8953670,108.2458090,exact point (OSM node),"https://www.google.com/maps?q=15.8953670,108.2458090",yes,OSM node 13644509020; amenity=school
+7,Bus stop 134 Trần Nhân Tông,Điện Bàn,Bus stop (secondary point),15.8917460,108.2476320,exact point (OSM node),"https://www.google.com/maps?q=15.8917460,108.2476320",yes,OSM node 11898021850; highway=bus_stop; Youth Park bus stop node 11898042436 within 15 m
+8,Bus stop 215 Trần Nhân Tông,Điện Bàn,Bus stop (secondary point),15.8880930,108.2496080,exact point (OSM node),"https://www.google.com/maps?q=15.8880930,108.2496080",yes,OSM node 11898042435; highway=bus_stop

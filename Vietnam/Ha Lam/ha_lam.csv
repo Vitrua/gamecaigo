@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,START - Hà Lam town centre,Hà Lam,Town centre point (OSM place node),15.7398095,108.3528928,exact point (OSM node),"https://www.google.com/maps?q=15.7398095,108.3528928",yes,OSM node 369493369; place=town
+1,Park in Hà Lam,Hà Lam,Park (no name tag),15.7379790,108.3563460,area centroid (OSM way),"https://www.google.com/maps?q=15.7379790,108.3563460",yes,OSM way 1448114703; leisure=park
+2,Hà Lam post office,"Nguyễn Hoàng, Hà Lam",Post office,15.7423387,108.3594046,"exact point (OSM node, Nominatim)","https://www.google.com/maps?q=15.7423387,108.3594046",yes,OSM node 7085982999; amenity=post_office
+3,Hotel Tony (exterior view),"Quốc lộ 1, Hà Lam",Hotel on Highway 1 (seen from the street),15.7449727,108.3567908,"exact point (OSM node, Nominatim)","https://www.google.com/maps?q=15.7449727,108.3567908",yes,OSM node 7085741688; tourism=hotel
+4,Lê Quý Đôn secondary school,Hà Lam,School (seen from the street),15.7351720,108.3478310,exact building,"https://www.google.com/maps?q=15.7351720,108.3478310",yes,OSM way 1563743734; amenity=school
+5,Thái Phiên high school,Hà Lam,School (seen from the street),15.7320650,108.3637390,exact building,"https://www.google.com/maps?q=15.7320650,108.3637390",yes,OSM way 1563752173; amenity=school
+6,Kim Đồng primary school,Hà Lam,School (seen from the street),15.7344620,108.3539900,exact building,"https://www.google.com/maps?q=15.7344620,108.3539900",yes,OSM way 1563753586; amenity=school
+7,Lương Thế Vinh primary school,Hà Lam,School (seen from the street),15.7418560,108.3527410,exact building,"https://www.google.com/maps?q=15.7418560,108.3527410",yes,OSM way 1563743727; amenity=school
+8,Tiểu La high school,Hà Lam,School (seen from the street),15.7416900,108.3560870,exact point (OSM node),"https://www.google.com/maps?q=15.7416900,108.3560870",yes,OSM node 5160512135; amenity=school
+9,Bus stop at Thăng Hoa hospital,Hà Lam,Bus stop (secondary point),15.7475170,108.3550530,exact point (OSM node),"https://www.google.com/maps?q=15.7475170,108.3550530",yes,OSM node 11898021863; highway=bus_stop
+10,Bus stop at Quán Hương village gate,Hà Lam,Bus stop (secondary point),15.7335530,108.3660060,exact point (OSM node),"https://www.google.com/maps?q=15.7335530,108.3660060",yes,"OSM node 11898021864; highway=bus_stop ""Cổng làng Quán Hương"""
