@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Campione bus stop,Campione d’Italia,Bus stop (start),45.9689380,8.9703970,exact point (OSM node),"https://www.google.com/maps?q=45.9689380,8.9703970",yes,OSM node 984002772; highway=bus_stop
+1,Santuario della Madonna dei Ghirli,Campione d’Italia,Pilgrimage church by the lake (historic),45.9631710,8.9689360,exact building,"https://www.google.com/maps?q=45.9631710,8.9689360",yes,"OSM way 186808753; Wikidata Q3673671; cemetery, Piazza Indipendenza fountain and a water point within 60 m, merged"
+2,Oratorio di San Pietro,"Piazza Roma, Campione d’Italia",Oratory at the old village entrance (historic),45.9685830,8.9710770,exact building,"https://www.google.com/maps?q=45.9685830,8.9710770",yes,OSM way 186813550; Wikidata Q3667817
+3,Galleria San Zenone,Campione d’Italia,Former church used as an art gallery (historic),45.9672390,8.9712660,exact building,"https://www.google.com/maps?q=45.9672390,8.9712660",yes,OSM way 186808741; tourism=museum; Wikidata Q3672221
+4,Campione Casino bus stop,Campione d’Italia,Bus stop (secondary point),45.9705050,8.9705010,exact point (OSM node),"https://www.google.com/maps?q=45.9705050,8.9705010",yes,OSM node 13610619474; highway=bus_stop
+5,Lido di Campione,Campione d’Italia,Lakeside beach,45.9729940,8.9729130,area centroid (OSM way),"https://www.google.com/maps?q=45.9729940,8.9729130",yes,OSM way 371442618; natural=beach
+6,Via Totone viewpoint,"Via Totone, Campione d’Italia",Viewpoint,45.9639740,8.9742270,exact point (OSM node),"https://www.google.com/maps?q=45.9639740,8.9742270",yes,OSM node 328026877; tourism=viewpoint
+7,Via per Arogno viewpoint,"Via per Arogno, Campione d’Italia",Viewpoint,45.9677180,8.9754070,exact point (OSM node),"https://www.google.com/maps?q=45.9677180,8.9754070",yes,OSM node 5126946431; tourism=viewpoint
+8,Via Posero bus stop,Campione d’Italia,Bus stop (secondary point),45.9629270,8.9726690,exact point (OSM node),"https://www.google.com/maps?q=45.9629270,8.9726690",yes,OSM node 328024467; highway=bus_stop
+9,Via Totone bus stop,Campione d’Italia,Bus stop (secondary point),45.9712820,8.9724830,exact point (OSM node),"https://www.google.com/maps?q=45.9712820,8.9724830",yes,OSM node 984003117; highway=bus_stop
+10,Via Marco bus stop,Campione d’Italia,Bus stop (secondary point),45.9658110,8.9700050,exact point (OSM node),"https://www.google.com/maps?q=45.9658110,8.9700050",yes,OSM node 13610619473; highway=bus_stop

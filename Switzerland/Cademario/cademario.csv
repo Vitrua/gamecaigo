@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Lisone bus stop,"Lisone, Cademario",Bus stop (start),46.0223970,8.8860000,exact point (OSM node),"https://www.google.com/maps?q=46.0223970,8.8860000",yes,OSM node 3297564873; highway=bus_stop
+1,Chiesa di Sant’Ambrogio vecchia,Cademario,Romanesque church with frescoes (historic),46.0216240,8.8984150,exact building,"https://www.google.com/maps?q=46.0216240,8.8984150",yes,"OSM way 472357838; Wikidata Q3668026; KGS_NR5353 parish church and cemetery within 20 m, merged"
+2,Belsito bus stop,Cademario,Bus stop (secondary point),46.0232990,8.8983880,exact point (OSM node),"https://www.google.com/maps?q=46.0232990,8.8983880",yes,OSM node 984002378; highway=bus_stop
+3,Cademario Chiesa bus stop,Cademario,Bus stop (secondary point),46.0206100,8.8932780,exact point (OSM node),"https://www.google.com/maps?q=46.0206100,8.8932780",yes,OSM node 4163035530; highway=bus_stop
+4,Kurhaus bus stop,"Kurhaus, Cademario",Bus stop (secondary point),46.0214110,8.8901130,exact point (OSM node),"https://www.google.com/maps?q=46.0214110,8.8901130",yes,OSM node 984001457; highway=bus_stop
+5,Cetta bus stop,Cademario,Bus stop (secondary point),46.0203070,8.8887370,exact point (OSM node),"https://www.google.com/maps?q=46.0203070,8.8887370",yes,OSM node 984001300; highway=bus_stop
+6,Scuola Elementare di Alto Malcantone,Cademario,Primary school (seen from outside),46.0235020,8.8867580,exact point (swisstopo gazetteer),"https://www.google.com/maps?q=46.0235020,8.8867580",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Scuola Elementare di Alto Malcantone"""
+7,Piano di Crosa,"Meriggio, Cademario",Meadow area,46.0263560,8.8865870,exact point (swisstopo gazetteer),"https://www.google.com/maps?q=46.0263560,8.8865870",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Meriggio - Piano di Crosa"""
+8,Forcora Iron Age necropolis,"Forcora, Cademario",Archaeological site,46.0166260,8.8831290,exact point (swisstopo KGS),"https://www.google.com/maps?q=46.0166260,8.8831290",yes,swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR10520
+9,Ai Pianèll viewpoint,Cademario,Viewpoint,46.0123360,8.8857610,exact point (OSM node),"https://www.google.com/maps?q=46.0123360,8.8857610",yes,OSM node 4163035494; tourism=viewpoint
+10,Riana stream,Cademario,Mountain stream,46.0155180,8.8984500,exact point (swisstopo gazetteer),"https://www.google.com/maps?q=46.0155180,8.8984500",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Corso d’acqua Riana"""

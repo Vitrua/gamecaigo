@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Piazza Santa Lucia Park,Massagno,Small park,46.0103970,8.9461070,site centroid (OSM way),"https://www.google.com/maps?q=46.0103970,8.9461070",yes,OSM way 908689564; leisure=park
+1,Oratorio della Madonna della Salute,"Via Madonna della Salute, Massagno",Oratory (historic),46.0107360,8.9434730,exact building,"https://www.google.com/maps?q=46.0107360,8.9434730",yes,OSM way 235127806; Wikidata Q55412332
+2,Chiesa Santa Lucia,Massagno,Parish church,46.0124350,8.9429110,exact building,"https://www.google.com/maps?q=46.0124350,8.9429110",yes,OSM way 25200013; Wikidata Q3673099
+3,Casa d’appartamenti Albairone,"Via Ceresio, Massagno",Modernist apartment house (seen from outside),46.0086850,8.9412930,exact point (swisstopo KGS),"https://www.google.com/maps?q=46.0086850,8.9412930",yes,swisstopo KGS inventory (ch.babs.kulturgueter) KGS_NR9146
+4,Cappella due Mani bus stop,Massagno,Bus stop (secondary point),46.0141430,8.9414340,exact point (OSM node),"https://www.google.com/maps?q=46.0141430,8.9414340",yes,OSM node 3299062702; highway=bus_stop
+5,Al Sole bus stop,Massagno,Bus stop (secondary point),46.0124630,8.9469280,exact point (OSM node),"https://www.google.com/maps?q=46.0124630,8.9469280",yes,OSM node 274999324; highway=bus_stop
+6,Via al Roccolo viewpoint,"Via al Roccolo, Massagno",Viewpoint over the park,46.0160630,8.9474170,exact point (OSM node),"https://www.google.com/maps?q=46.0160630,8.9474170",yes,OSM node 9631575766; tourism=viewpoint; park way 1047446449 within 20 m
+7,Cimitero di Massagno,Massagno,Cemetery (seen from outside),46.0136610,8.9395110,site centroid (OSM way),"https://www.google.com/maps?q=46.0136610,8.9395110",yes,OSM way 532665543; landuse=cemetery
+8,Villa Selva,Massagno,Villa with restaurant (seen from outside),46.0143720,8.9503230,exact point (OSM node),"https://www.google.com/maps?q=46.0143720,8.9503230",yes,"OSM node 3758966221; amenity=restaurant, name tag Villa Selva"
+9,Biblioteca dell’Istituto Universitario,Massagno,Library (seen from outside),46.0107930,8.9370000,exact point (OSM node),"https://www.google.com/maps?q=46.0107930,8.9370000",yes,OSM node 5966042636; amenity=library; Wikidata Q56880999
+10,Genzana bus stop,Massagno,Bus stop (secondary point),46.0086290,8.9466430,exact point (OSM node),"https://www.google.com/maps?q=46.0086290,8.9466430",yes,OSM node 274999331; highway=bus_stop

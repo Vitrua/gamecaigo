@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Campione d'Italia Dash</name>
+<Style id="b"><LineStyle><color>ff0000ff</color><width>3</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+<Placemark><name>Campione d'Italia municipal border (swisstopo)</name><styleUrl>#b</styleUrl><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>8.9738198,45.9835461,0 8.9772545,45.9815217,0 8.9775167,45.9715179,0 8.9778277,45.9685569,0 8.9764751,45.9632734,0 8.9760882,45.9624813,0 8.9751852,45.9615901,0 8.9702691,45.9615529,0 8.9578790,45.9647351,0 8.9580851,45.9652482,0 8.9597985,45.9691640,0 8.9640770,45.9787912,0 8.9654046,45.9815278,0 8.9668490,45.9840303,0 8.9672746,45.9841744,0 8.9693533,45.9840040,0 8.9738198,45.9835461,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+<Placemark><name>START - Campione bus stop</name><description>Campione d’Italia - Bus stop (start)</description><Point><coordinates>8.9703970,45.9689380,0</coordinates></Point></Placemark>
+<Placemark><name>1 Santuario della Madonna dei Ghirli</name><description>Campione d’Italia - Pilgrimage church by the lake (historic)</description><Point><coordinates>8.9689360,45.9631710,0</coordinates></Point></Placemark>
+<Placemark><name>2 Oratorio di San Pietro</name><description>Piazza Roma, Campione d’Italia - Oratory at the old village entrance (historic)</description><Point><coordinates>8.9710770,45.9685830,0</coordinates></Point></Placemark>
+<Placemark><name>3 Galleria San Zenone</name><description>Campione d’Italia - Former church used as an art gallery (historic)</description><Point><coordinates>8.9712660,45.9672390,0</coordinates></Point></Placemark>
+<Placemark><name>4 Campione Casino bus stop</name><description>Campione d’Italia - Bus stop (secondary point)</description><Point><coordinates>8.9705010,45.9705050,0</coordinates></Point></Placemark>
+<Placemark><name>5 Lido di Campione</name><description>Campione d’Italia - Lakeside beach</description><Point><coordinates>8.9729130,45.9729940,0</coordinates></Point></Placemark>
+<Placemark><name>6 Via Totone viewpoint</name><description>Via Totone, Campione d’Italia - Viewpoint</description><Point><coordinates>8.9742270,45.9639740,0</coordinates></Point></Placemark>
+<Placemark><name>7 Via per Arogno viewpoint</name><description>Via per Arogno, Campione d’Italia - Viewpoint</description><Point><coordinates>8.9754070,45.9677180,0</coordinates></Point></Placemark>
+<Placemark><name>8 Via Posero bus stop</name><description>Campione d’Italia - Bus stop (secondary point)</description><Point><coordinates>8.9726690,45.9629270,0</coordinates></Point></Placemark>
+<Placemark><name>9 Via Totone bus stop</name><description>Campione d’Italia - Bus stop (secondary point)</description><Point><coordinates>8.9724830,45.9712820,0</coordinates></Point></Placemark>
+<Placemark><name>10 Via Marco bus stop</name><description>Campione d’Italia - Bus stop (secondary point)</description><Point><coordinates>8.9700050,45.9658110,0</coordinates></Point></Placemark>
+</Document></kml>

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Manno Paese bus stop,Manno,Bus stop (start),46.0356640,8.9201220,exact point (OSM node),"https://www.google.com/maps?q=46.0356640,8.9201220",yes,OSM node 984002256; highway=bus_stop
+1,Chiesetta di San Rocco,Manno,Small chapel (historic),46.0344480,8.9185170,exact building,"https://www.google.com/maps?q=46.0344480,8.9185170",yes,"OSM way 465741178; amenity=place_of_worship; library, park and fountains within 120 m, merged"
+2,Boschetti bus stop,Manno,Bus stop (secondary point),46.0382780,8.9184590,exact point (OSM node),"https://www.google.com/maps?q=46.0382780,8.9184590",yes,OSM node 984002270; highway=bus_stop
+3,Manno Scuole bus stop,Manno,Bus stop (secondary point),46.0375380,8.9208540,exact point (OSM node),"https://www.google.com/maps?q=46.0375380,8.9208540",yes,OSM node 984004355; highway=bus_stop
+4,Michelino bus stop,Manno,Bus stop (secondary point),46.0336540,8.9214880,exact point (OSM node),"https://www.google.com/maps?q=46.0336540,8.9214880",yes,OSM node 984001308; highway=bus_stop
+5,Uovo di Manno bus stop,Manno,Bus stop (secondary point),46.0354260,8.9240100,exact point (OSM node),"https://www.google.com/maps?q=46.0354260,8.9240100",yes,OSM node 11506520587; highway=bus_stop
+6,SUPSI campus,Manno,University campus (seen from outside),46.0358010,8.9264560,exact point (swisstopo gazetteer),"https://www.google.com/maps?q=46.0358010,8.9264560",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Scuola universitaria professionale della Svizzera italiana SUPSI"""
+7,Mondadiscio bus stop,Manno,Bus stop (secondary point),46.0377870,8.9237390,exact point (OSM node),"https://www.google.com/maps?q=46.0377870,8.9237390",yes,OSM node 984004371; highway=bus_stop
+8,Suglio bus stop,"Suglio, Manno",Bus stop (secondary point),46.0312570,8.9216580,exact point (OSM node),"https://www.google.com/maps?q=46.0312570,8.9216580",yes,OSM node 984001185; highway=bus_stop
+9,La Monda bus stop,Manno,Bus stop (secondary point),46.0248560,8.9173000,exact point (OSM node),"https://www.google.com/maps?q=46.0248560,8.9173000",yes,OSM node 6364883058; highway=bus_stop
+10,Centro di Calcolo bus stop,Manno,Bus stop (secondary point),46.0225920,8.9172960,exact point (OSM node),"https://www.google.com/maps?q=46.0225920,8.9172960",yes,OSM node 843857237; highway=bus_stop

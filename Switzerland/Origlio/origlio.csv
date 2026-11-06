@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Piazza Municipio water point,"Piazza Municipio, Origlio",Public drinking-water point (start),46.0546620,8.9451750,exact point (OSM node),"https://www.google.com/maps?q=46.0546620,8.9451750",yes,OSM node 1350408442; amenity=drinking_water
+1,Chiesa di San Giorgio,Origlio,Church (historic),46.0566430,8.9419460,exact building,"https://www.google.com/maps?q=46.0566430,8.9419460",yes,OSM way 165059952; Wikidata Q3669333
+2,Funtana da Scima,Origlio,Public drinking-water fountain,46.0543830,8.9418410,exact point (OSM node),"https://www.google.com/maps?q=46.0543830,8.9418410",yes,OSM node 12565401668; amenity=drinking_water
+3,Playground Via Traversa,"Via Traversa, Origlio",Playground,46.0532610,8.9430950,site centroid (OSM way),"https://www.google.com/maps?q=46.0532610,8.9430950",yes,OSM way 297807905; leisure=playground
+4,Church on Strada Granda,"Strada Granda, Origlio",Village church (historic),46.0543640,8.9444920,exact building,"https://www.google.com/maps?q=46.0543640,8.9444920",yes,OSM way 988425998; amenity=place_of_worship
+5,Lago d’Origlio,Origlio,Small nature-reserve lake,46.0507510,8.9425730,exact point (swisstopo gazetteer),"https://www.google.com/maps?q=46.0507510,8.9425730",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Lago d’Origlio"""
+6,Sentee dal Lagh water point,Origlio,Public drinking-water point on the lake path,46.0481090,8.9412440,exact point (OSM node),"https://www.google.com/maps?q=46.0481090,8.9412440",yes,OSM node 1350408444; amenity=drinking_water
+7,Scuola Rudolf Steiner,Origlio,School (seen from outside),46.0473520,8.9449120,exact point (swisstopo gazetteer),"https://www.google.com/maps?q=46.0473520,8.9449120",yes,"swisstopo gazetteer (api3.geo.admin.ch) ""Scuola Rudolf Steiner di Lugano"""
+8,Deca bus stop,"Carnago, Origlio",Bus stop (secondary point),46.0464870,8.9471150,exact point (OSM node),"https://www.google.com/maps?q=46.0464870,8.9471150",yes,OSM node 13879295024; highway=bus_stop
+9,Arbustello bus stop,"Carnago, Origlio",Bus stop (secondary point),46.0497690,8.9499860,exact point (OSM node),"https://www.google.com/maps?q=46.0497690,8.9499860",yes,OSM node 3715156454; highway=bus_stop
+10,Chiesa di San Vittore Mauro,"Carnago, Origlio",Parish church (historic),46.0526280,8.9501140,exact building,"https://www.google.com/maps?q=46.0526280,8.9501140",yes,"OSM way 1072760123; Wikidata Q55414055; cemetery way 364652164 within 35 m, merged"

@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Porto Ceresio railway station,Porto Ceresio,Railway terminus (start),45.9037170,8.9004810,exact point (OSM node),"https://www.google.com/maps?q=45.9037170,8.9004810",yes,OSM node 9299666289; railway=station; Wikidata Q3970568
+1,Chiesa di Sant’Ambrogio,Porto Ceresio,Baroque parish church (historic),45.9025560,8.9045470,exact building,"https://www.google.com/maps?q=45.9025560,8.9045470",yes,OSM way 449061299; Wikidata Q57395279
+2,Museo Etnografico Appiani Lopez,Porto Ceresio,Museum (seen from outside),45.9050520,8.9069570,exact point (OSM node),"https://www.google.com/maps?q=45.9050520,8.9069570",yes,OSM node 14192087940; tourism=museum
+3,Selva Piana lakeside park,"Selva Piana, Porto Ceresio",Lakeside park,45.9068080,8.9071450,area centroid (OSM way),"https://www.google.com/maps?q=45.9068080,8.9071450",yes,OSM way 1183441458; leisure=park
+4,Lakefront playground,"Lungolago Augustów, Porto Ceresio",Playground on the lake promenade,45.9089650,8.9082560,site centroid (OSM way),"https://www.google.com/maps?q=45.9089650,8.9082560",yes,OSM way 117940551; leisure=playground
+5,Oratorio di Sant’Antonio,"Ca’ del Monte, Porto Ceresio",Small oratory (historic),45.9090430,8.9177280,exact building,"https://www.google.com/maps?q=45.9090430,8.9177280",yes,OSM way 1396279263; amenity=place_of_worship
+6,Cimitero di Porto Ceresio,Porto Ceresio,Cemetery (seen from outside),45.8989950,8.9005300,site centroid (OSM way),"https://www.google.com/maps?q=45.8989950,8.9005300",yes,OSM way 270969563; Wikidata Q57395264
+7,San Pietro park,"San Pietro, Porto Ceresio",Park,45.9024910,8.8991640,area centroid (OSM way),"https://www.google.com/maps?q=45.9024910,8.8991640",yes,OSM way 1281113694; leisure=park
+8,Grumello viewpoint,"Monte Grumello, Porto Ceresio",Mountain viewpoint,45.8987590,8.9128900,exact point (OSM node),"https://www.google.com/maps?q=45.8987590,8.9128900",yes,OSM node 1264899109; tourism=viewpoint; peak Monte Grumello node 465507387 within 20 m
+9,Via Casamora viewpoint,"Via Casamora, Porto Ceresio",Viewpoint,45.9104120,8.8964180,exact point (OSM node),"https://www.google.com/maps?q=45.9104120,8.8964180",yes,"OSM node 5875428854; tourism=viewpoint; second viewpoint node 10853513876 within 25 m, merged"
+10,Via Giuseppe Mazzini fountain,"Via Giuseppe Mazzini, Porto Ceresio",Fountain,45.9036070,8.9006210,exact point (OSM node),"https://www.google.com/maps?q=45.9036070,8.9006210",yes,OSM node 9016689509; amenity=fountain

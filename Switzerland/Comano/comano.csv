@@ -1,0 +1,12 @@
+﻿Point,Name,Address,Type,Latitude,Longitude,Precision,Google Maps link,Inside border,Source
+START,Comano Rotonda bus stop,Comano,Bus stop (start),46.0329820,8.9568740,exact point (OSM node),"https://www.google.com/maps?q=46.0329820,8.9568740",yes,OSM node 2131913031; highway=bus_stop
+1,Santa Maria della Purificazione,Comano,Parish church (historic),46.0372820,8.9546020,exact building,"https://www.google.com/maps?q=46.0372820,8.9546020",yes,"OSM way 220270113; Wikidata Q3673897; Oratorio dei SS Rocco e Sebastiano way 241661136 within 135 m, not used"
+2,Cimitero di Comano,Comano,Cemetery (seen from outside),46.0376630,8.9518790,site centroid (OSM way),"https://www.google.com/maps?q=46.0376630,8.9518790",yes,OSM way 46521184; landuse=cemetery
+3,Studio TV bus stop,Comano,Bus stop at the broadcaster’s studios (secondary point),46.0329180,8.9522090,exact point (OSM node),"https://www.google.com/maps?q=46.0329180,8.9522090",yes,OSM node 11507975617; highway=bus_stop
+4,Parco quattro strade,Comano,Park,46.0333190,8.9571100,site centroid (OSM way),"https://www.google.com/maps?q=46.0333190,8.9571100",yes,OSM way 314924123; leisure=park
+5,Via Crucis di Comano,Comano,Outdoor Way of the Cross,46.0417200,8.9561790,exact point (OSM node),"https://www.google.com/maps?q=46.0417200,8.9561790",yes,"OSM node 14095295875; Stations artwork nodes within 55 m, merged"
+6,Parco San Bernardo,Comano,Park on the hill,46.0422130,8.9596820,site centroid (OSM way),"https://www.google.com/maps?q=46.0422130,8.9596820",yes,OSM way 70999629; leisure=park
+7,San Carlo water point,Comano,Public drinking-water point,46.0449100,8.9598940,exact point (OSM node),"https://www.google.com/maps?q=46.0449100,8.9598940",yes,OSM node 4404358995; amenity=drinking_water
+8,Oratorio di San Bernardo,Comano,Hilltop hermitage chapel (historic),46.0452920,8.9622170,exact building,"https://www.google.com/maps?q=46.0452920,8.9622170",yes,"OSM way 1460477043; Wikidata Q55382034; viewpoint Piodera node 2522005287 within 45 m, merged"
+9,Funtanin dar Remitur,Comano,Public drinking-water fountain,46.0466640,8.9628510,exact point (OSM node),"https://www.google.com/maps?q=46.0466640,8.9628510",yes,OSM node 1936740944; amenity=drinking_water
+10,Via Canavée viewpoint,"Via Canavée, Comano",Viewpoint,46.0362630,8.9559740,exact point (OSM node),"https://www.google.com/maps?q=46.0362630,8.9559740",yes,OSM node 4869514033; tourism=viewpoint
